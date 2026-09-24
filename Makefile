@@ -1,6 +1,7 @@
 .PHONY: help install check dry-run mock-smoke estimate-full check-live \
         run-full run-polish run-baseline run-baseline-entrants run-universe-scoring \
-        run-championship run-baseline-championship run-semantic figures robustness-tests
+        run-championship run-baseline-championship run-semantic figures robustness-tests \
+        gov-mock gov-one gov-full
 
 # Run id of the searches reported in the paper.  Set RUN_ID=... to reproduce
 # the pipeline under a new id.
@@ -34,6 +35,12 @@ help:
 	  '  make run-championship          Final tournament: polished descendants, parents, finals, and the 30 originals' \
 	  '  make run-baseline-championship Same tournament for the local-only finals' \
 	  '  make run-semantic              Semantic distances of the local-only finals and the polished slate (no API calls)' \
+	  '' \
+	  '' \
+	  'Government initiatives (see GOVERNMENT.md; results go to out-gov/):' \
+	  '  make gov-mock    Free offline test with fake AI answers' \
+	  '  make gov-one     Improve ONE idea step by step (paid, cheap). GOV_IDEA=<id> picks the idea' \
+	  '  make gov-full    Improve, mix, and rank all 15 ideas (paid)' \
 	  '' \
 	  'The README documents every stage, its outputs, and the numbers it supports.'
 
@@ -116,3 +123,30 @@ figures:
 robustness-tests:
 	cd robustness1-gemma3-4b && $(PYTHON) -m unittest -v test_robustness.py
 	cd robustness2-qwen2.5-72b && $(PYTHON) -m unittest -v test_robustness.py
+
+# --- Government initiatives ------------------------------------------------
+# Same search, government prompts (AI_ENTREP_DOMAIN=government), the 15 ideas
+# in in/gov-ideas.csv, and a separate output folder.  GOVERNMENT.md explains it.
+GOV_INPUT := in/gov-ideas.csv
+GOV_SET := in/gov-firm-set-15.txt
+GOV_SEED := proactive-benefits
+GOV_IDEA ?= $(GOV_SEED)
+GOV_RUN_ID ?= gov-run-01
+GOV_STEPS ?= 12
+GOV_OUT := out-gov
+GOV_ENV := AI_ENTREP_DOMAIN=government AI_ENTREP_SEED_PROJECT_ID=$(GOV_SEED)
+
+gov-mock:
+	$(GOV_ENV) $(PYTHON) src/run_pipeline.py --input-file $(GOV_INPUT) --firm-set $(GOV_SET) \
+	  --model $(MODEL) --steps 1 --run-id gov-mock --run-kind smoke --quality-calibration none \
+	  --output-dir $(GOV_OUT) --max-concurrent-calls 20 --mock --force
+
+gov-one: check-live
+	AI_ENTREP_DOMAIN=government AI_ENTREP_CALL_CACHE=$(GOV_OUT)/$(GOV_RUN_ID)-$(GOV_IDEA)-call-cache.sqlite3 \
+	$(PYTHON) src/local_search.py --input-file $(GOV_INPUT) --seed-id $(GOV_IDEA) --model $(MODEL) \
+	  --steps $(GOV_STEPS) --run-prefix $(GOV_RUN_ID)-$(GOV_IDEA) --output-dir $(GOV_OUT)
+
+gov-full: check-live
+	$(GOV_ENV) $(PYTHON) src/run_pipeline.py --input-file $(GOV_INPUT) --firm-set $(GOV_SET) \
+	  --model $(MODEL) --steps $(GOV_STEPS) --run-id $(GOV_RUN_ID) --run-kind full \
+	  --quality-calibration none --output-dir $(GOV_OUT) --max-concurrent-calls 40

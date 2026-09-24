@@ -156,3 +156,17 @@ Here is the child plan produced by crossing the two parents:
 
 In 2-3 sentences, describe what the child inherited from each parent. \
 Identify which elements came from {a_id} and which from {b_id}."""
+
+
+# Domain switch: see the note at the end of local_search_prompts.py.
+import os as _os
+
+if _os.environ.get("AI_ENTREP_DOMAIN", "").strip().lower() == "government":
+    from government_prompts import (  # noqa: E402,F811
+        CROSSOVER_FIDELITY_AUDITOR_PROMPT,
+        CROSSOVER_PROMPT,
+        MUTATION_COMPONENT_GUIDANCE,
+        MUTATOR_PROMPT,
+        NARRATIVE_CROSSOVER_PROMPT,
+        NARRATIVE_MUTATION_PROMPT,
+    )

@@ -35,13 +35,22 @@ COMPONENT_LABELS = {
 # The source campaigns use a stable set of Markdown headings.  Multiple
 # sections may contribute to one theoretical component.  A generated plan may
 # instead use the six component names directly; those aliases come first.
+# The government-initiative headings (in/gov-ideas.csv) are listed alongside.
 COMPONENT_SECTIONS = {
     "problem": ("problem",),
-    "customer": ("customer", "target users & use cases", "target users and use cases"),
+    "customer": (
+        "customer",
+        "target users & use cases",
+        "target users and use cases",
+        "target beneficiaries & use cases",
+        "target beneficiaries and use cases",
+    ),
     "solution": (
         "solution",
         "solution / product overview",
         "solution product overview",
+        "solution / service overview",
+        "solution service overview",
         "key features & capabilities",
         "key features and capabilities",
         "technical details",
@@ -56,6 +65,8 @@ COMPONENT_SECTIONS = {
     ),
     "revenue_logic": (
         "revenue logic",
+        "funding & sustainability",
+        "funding and sustainability",
         "revenue model & sustainability",
         "revenue model and sustainability",
         "why crowdfunding / use of funds",
@@ -66,6 +77,7 @@ COMPONENT_SECTIONS = {
     ),
     "distinctiveness": (
         "distinctiveness",
+        "what makes it new",
         "one-sentence summary",
         "one sentence summary",
         "solution / product overview",

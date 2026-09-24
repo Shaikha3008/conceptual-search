@@ -1,0 +1,17 @@
+# The 15 government initiative ideas used as the starting population
+# (in/gov-ideas.csv).  The first id is the local-search seed.
+proactive-benefits
+one-visit-business
+heat-safe-work
+senior-companion
+service-feedback-loop
+youth-micro-internships
+recycling-rewards
+home-tele-rehab
+traffic-digital-twin
+smart-water-leaks
+citizen-policy-lab
+skills-passport
+school-wellbeing-check
+flood-early-warning
+sme-procurement-access

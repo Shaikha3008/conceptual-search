@@ -56,6 +56,7 @@ A machine-readable citation is in `CITATION.cff`.
 | `figs/` | The four figures (PDF and PNG) and two tables (LaTeX) of the paper's empirical section, as rebuilt from `out/`. |
 | `robustness1-gemma3-4b/`, `robustness2-qwen2.5-72b/` | The two cross-evaluator robustness checks: code, frozen inputs, and every provider response. |
 | `Makefile` | One target per stage; `make help` lists them. |
+| `GOVERNMENT.md` | An adaptation to government initiatives: 15 example ideas (`in/gov-ideas.csv`), government prompts (`src/government_prompts.py`), and `make gov-*` commands. |
 
 ## The method in brief
 
@@ -230,7 +231,7 @@ Setup:
 ```bash
 python3 -m pip install -r src/requirements.txt   # openai, tenacity, torch (CPU), sentence-transformers
 export OPENROUTER_API_KEY=...                     # read at call time; never written to disk
-make check                                        # syntax checks and 44 deterministic unit tests
+make check                                        # syntax checks and 49 deterministic unit tests
 make dry-run                                      # prints the workflow and writes a manifest
 make mock-smoke                                   # one-step pipeline with offline mock responses
 ```

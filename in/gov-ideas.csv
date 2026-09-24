@@ -1,0 +1,526 @@
+"id","area","description"
+"proactive-benefits","Social support","## One-Sentence Summary
+
+A proposed service that detects life events such as the birth of a child, job loss, or retirement and would offer eligible families the relevant government support automatically, without an application.
+
+## Problem
+
+Many families who qualify for social support never receive it because they do not know it exists, the rules are hard to understand, or the application requires documents from several entities. People in difficult moments, such as after losing a job, face the most paperwork at the time they have the least energy for it.
+
+## Target Beneficiaries & Use Cases
+
+Families going through major life events: new parents, people who recently lost their job, new retirees, and people with a newly registered disability. A typical use case is a mother who registers a birth and, within days, would receive a message listing the support she qualifies for, with one tap to accept.
+
+## Solution / Service Overview
+
+The initiative proposes linking existing government records, with the person's consent, so that eligibility could be checked in the background when a life event is registered. The citizen would receive a clear message explaining what they qualify for and why, and could accept, decline, or ask a human case worker for help. No new documents would be requested when the information already exists in government systems.
+
+## Delivery Model
+
+The service would be delivered through the existing government app and SMS, with a phone line and service centers for people who are not digital. A small central team would maintain the eligibility rules, and each participating entity would keep ownership of its own data.
+
+## Funding & Sustainability
+
+The initiative plans to be funded from the existing social support budget, with the aim of offsetting costs through reduced application processing and fewer appeals. A proposed first phase would cover three life events before expanding.
+
+## What Makes It New
+
+Most government services wait for people to apply. This proposal reverses the direction: the government would come to the citizen at the moment of need, which is rare in social services.
+
+## Measuring Impact
+
+Proposed indicators include the share of eligible families receiving support, the time from life event to first payment, and citizen satisfaction. A planned comparison with the current application route would test whether uptake improves.
+
+## Risks & Mitigation
+
+Privacy and consent are the main risks; the initiative proposes an explicit opt-in and a clear record of which data was used. Wrong eligibility decisions would be reduced by keeping a human review step for edge cases."
+"one-visit-business","Business licensing","## One-Sentence Summary
+
+A single digital window where a new small business could get every license, permit, and registration it needs in one application instead of visiting several entities.
+
+## Problem
+
+Starting a small business often means repeating the same information to many different offices, waiting for approvals in sequence, and guessing which permits are needed. This delays openings and discourages people from starting businesses at all.
+
+## Target Beneficiaries & Use Cases
+
+First-time entrepreneurs opening small shops, cafes, home businesses, and service companies. A typical case is a person opening a small bakery who would need a trade license, a health permit, a signage permit, and civil defense approval.
+
+## Solution / Service Overview
+
+The initiative proposes one online form that asks each question once and routes the answers to every relevant entity in parallel. A guided checklist would tell the applicant exactly which approvals their activity needs. A single case manager would be proposed for any application that gets stuck.
+
+## Delivery Model
+
+Delivered online with a helpdesk. Entities would connect through a shared data exchange.
+
+## Funding & Sustainability
+
+Fees would stay the same as today and be collected once and split between entities.
+
+## What Makes It New
+
+It brings many approvals together in one place.
+
+## Measuring Impact
+
+The plan is to track the number of days to open a business and the number of visits required.
+
+## Risks & Mitigation
+
+Entities may resist sharing data or changing processes; the initiative plans to start with a few willing entities."
+"heat-safe-work","Worker safety","## One-Sentence Summary
+
+A proposed heat-safety program for outdoor workers that would combine hyper-local heat alerts, cooled rest shelters, and simple rules employers must follow on dangerous days.
+
+## Problem
+
+Outdoor workers in construction, delivery, and landscaping face serious health risks during extreme heat. General weather warnings are not specific enough to a worksite, and many workers feel unable to stop and rest without losing income.
+
+## Target Beneficiaries & Use Cases
+
+Construction workers, delivery riders, cleaners, and gardeners who work outdoors, and the small employers who hire them. A delivery rider would receive an alert on a very hot afternoon showing the nearest cooled rest point.
+
+## Solution / Service Overview
+
+The initiative proposes a heat-risk map combining temperature and humidity at neighborhood level, a network of cooled rest shelters at key locations such as fuel stations and parks, and a mobile alert for workers and employers. On high-risk days, employers would be asked to apply mandatory rest breaks, with guidance published in several languages.
+
+## Delivery Model
+
+Shelters would be proposed through partnerships with private sites, and alerts would go through a lightweight app and SMS. Inspectors would do spot checks on high-risk days.
+
+## Funding & Sustainability
+
+The plan is a shared model: the government would fund the alert system and a first set of shelters, and larger employers would be invited to sponsor additional shelters.
+
+## What Makes It New
+
+It moves from general weather warnings to worksite-level risk and pairs every alert with a practical place to rest.
+
+## Measuring Impact
+
+Proposed indicators include heat-related clinic visits among outdoor workers, shelter usage, and employer compliance on alert days.
+
+## Risks & Mitigation
+
+Workers may ignore alerts if they fear losing pay; the initiative plans to publish clear employer obligations. Shelter maintenance costs would be tested in a first phase."
+"senior-companion","Elderly care","## One-Sentence Summary
+
+A program to reduce loneliness among seniors living alone by pairing them with trained volunteers and friendly daily check-in calls.
+
+## Problem
+
+Many elderly people living alone go days without speaking to anyone. Loneliness harms physical and mental health, and small problems such as a fall or missed medication can go unnoticed.
+
+## Target Beneficiaries & Use Cases
+
+Seniors over 70 who live alone, and their families who live far away.
+
+## Solution / Service Overview
+
+The initiative proposes daily automated check-in calls with a friendly voice, weekly visits from trained volunteers, and an alert to a family member or social worker if a senior does not answer or reports a problem.
+
+## Delivery Model
+
+Volunteers would be recruited from universities and community groups and trained by social services. The calls would be managed by a small central team.
+
+## Funding & Sustainability
+
+The plan is to fund the program from the social services budget, with volunteer time keeping costs low.
+
+## What Makes It New
+
+It combines technology with human contact.
+
+## Measuring Impact
+
+The initiative plans to measure loneliness scores and emergency response times.
+
+## Risks & Mitigation
+
+Volunteer drop-out is a risk; the plan is to offer recognition certificates."
+"service-feedback-loop","Service quality","## One-Sentence Summary
+
+A proposed system where every rating a citizen gives after a government service would automatically create a follow-up task for the responsible team, with the result reported back to the citizen.
+
+## Problem
+
+Citizens are often asked to rate government services, but they rarely see anything change. Feedback is collected in dashboards that few people act on, so people stop giving honest feedback.
+
+## Target Beneficiaries & Use Cases
+
+Every citizen and resident who uses government services, and the service managers who are responsible for improving them.
+
+## Solution / Service Overview
+
+The initiative proposes that low ratings and written complaints would be grouped by topic using simple text analysis and sent to the named team responsible. Each team would be expected to respond within a set time. The citizen would receive a short message explaining what was changed because of their feedback, closing the loop.
+
+## Delivery Model
+
+Delivered through the existing rating screens in service centers and apps, with a shared task board for service managers.
+
+## Funding & Sustainability
+
+Funded from existing customer experience budgets; the main cost would be staff time to respond.
+
+## What Makes It New
+
+Most feedback systems stop at measuring. This one would make every complaint traceable to an action and tell citizens the result.
+
+## Measuring Impact
+
+Proposed indicators include the share of complaints with a documented action, repeat complaints on the same topic, and whether citizens who get a response give feedback again.
+
+## Risks & Mitigation
+
+Teams may feel blamed; the initiative plans to present the system as a learning tool and to celebrate the teams that fix the most issues."
+"youth-micro-internships","Youth employment","## One-Sentence Summary
+
+Short, paid, two-to-four-week project internships in government entities for university students, designed to give real work experience without a long commitment.
+
+## Problem
+
+Students struggle to get work experience because traditional internships are long, competitive, and often unpaid. Government entities also miss out on fresh skills in areas such as design, data, and communication.
+
+## Target Beneficiaries & Use Cases
+
+University students in their second year or later, especially those without family networks to find internships.
+
+## Solution / Service Overview
+
+The initiative proposes an online marketplace where government teams would post small, well-defined projects, and students would apply with a short task. Each completed project would give the student a digital certificate and a small stipend.
+
+## Delivery Model
+
+Run online, with a coordinator in each participating entity.
+
+## Funding & Sustainability
+
+Stipends would come from each entity's training budget.
+
+## What Makes It New
+
+The format is short and project-based rather than a long internship.
+
+## Measuring Impact
+
+The plan is to track the number of projects completed and student satisfaction.
+
+## Risks & Mitigation
+
+Teams may post low-value tasks; the initiative plans a simple review of each project before it is published."
+"recycling-rewards","Environment","## One-Sentence Summary
+
+A proposed rewards program where households would earn points for correctly sorted recycling, redeemable for discounts on public transport and government service fees.
+
+## Problem
+
+Recycling rates remain low because sorting takes effort and people see no direct benefit. Contaminated recycling bins also increase processing costs.
+
+## Target Beneficiaries & Use Cases
+
+Households in apartment buildings and villas, and building managers.
+
+## Solution / Service Overview
+
+The initiative proposes smart recycling bins with a QR code scanner at collection points. Households would scan a personal code when depositing sorted recycling, and bins would estimate the weight and quality of the material. Points would be credited to a household account.
+
+## Delivery Model
+
+Delivered with waste collection companies that would install and operate the bins, and an app to show points.
+
+## Funding & Sustainability
+
+The plan is to fund rewards partly from the value of recovered materials and partly from savings in landfill costs.
+
+## What Makes It New
+
+It links recycling directly to benefits people already use, such as transport.
+
+## Measuring Impact
+
+Proposed indicators include recycling volume, contamination rate, and the number of active households.
+
+## Risks & Mitigation
+
+People may try to game the system with non-recyclable waste; the initiative plans random quality checks."
+"home-tele-rehab","Health","## One-Sentence Summary
+
+A proposed home rehabilitation service where patients recovering from surgery or stroke would do guided physiotherapy at home through video sessions and simple motion-tracking on a phone.
+
+## Problem
+
+Many patients stop attending physiotherapy because travelling to a clinic several times a week is tiring, expensive, or impossible without help. Incomplete rehabilitation leads to slower recovery and more hospital readmissions.
+
+## Target Beneficiaries & Use Cases
+
+Patients discharged after orthopedic surgery or stroke, especially elderly patients and people living far from clinics, and the family members who support them.
+
+## Solution / Service Overview
+
+The initiative proposes weekly live video sessions with a physiotherapist, plus daily exercises guided by a phone app that would use the camera to count repetitions and flag incorrect movements. The therapist would review progress remotely and adjust the plan.
+
+## Delivery Model
+
+Delivered by public hospital physiotherapy departments, with devices lent to patients who lack a smartphone.
+
+## Funding & Sustainability
+
+The initiative plans to be funded within existing hospital budgets, with the aim of lowering costs from readmissions and transport.
+
+## What Makes It New
+
+It brings rehabilitation into the home and uses the phone camera as a coach between sessions.
+
+## Measuring Impact
+
+Proposed indicators include completion rates of rehabilitation plans, mobility scores, and readmissions within 90 days, compared with clinic-based care in a planned trial.
+
+## Risks & Mitigation
+
+Some patients may struggle with technology; the plan is a first home visit to set up the device and train a family member."
+"traffic-digital-twin","Urban mobility","## One-Sentence Summary
+
+A digital twin of the city's road network to test traffic changes on a computer before applying them on real streets.
+
+## Problem
+
+Traffic changes such as new signals, lane closures, or bus lanes are often tested directly on the street, causing disruption when they do not work.
+
+## Target Beneficiaries & Use Cases
+
+Transport planners and, indirectly, all drivers and public transport users.
+
+## Solution / Service Overview
+
+The initiative proposes building a computer model of the road network fed by traffic sensors and cameras, where planners could simulate changes and compare results.
+
+## Delivery Model
+
+Built by the transport authority with a technology provider.
+
+## Funding & Sustainability
+
+Funded from the transport capital budget.
+
+## What Makes It New
+
+It uses simulation instead of trial and error.
+
+## Measuring Impact
+
+The plan is to measure travel times.
+
+## Risks & Mitigation
+
+The model may be inaccurate; the initiative plans to calibrate it with real data."
+"smart-water-leaks","Utilities","## One-Sentence Summary
+
+A proposed service that would detect water leaks inside homes from smart meter data and alert residents by SMS before they receive a high bill.
+
+## Problem
+
+Hidden leaks in homes waste large amounts of water and often go unnoticed until a very high bill arrives, causing financial stress and disputes with the utility.
+
+## Target Beneficiaries & Use Cases
+
+Households with smart water meters, especially elderly residents and families on low incomes for whom a surprise bill is a hardship.
+
+## Solution / Service Overview
+
+The initiative proposes analysing hourly meter readings to spot continuous night-time water flow, which usually means a leak. Residents would receive an alert with simple steps to check for leaks and a link to book a subsidised plumber visit.
+
+## Delivery Model
+
+Delivered by the water utility through its existing meter data and customer channels.
+
+## Funding & Sustainability
+
+The plan is to fund the service from reduced water losses and fewer billing disputes.
+
+## What Makes It New
+
+It turns meter data that already exists into a protective service for residents.
+
+## Measuring Impact
+
+Proposed indicators include water saved, the number of leaks fixed after alerts, and the number of billing disputes.
+
+## Risks & Mitigation
+
+False alarms could annoy residents; the initiative plans to set a conservative detection threshold in a first phase."
+"citizen-policy-lab","Participation","## One-Sentence Summary
+
+A proposed citizen co-design lab where small, randomly selected groups of residents would work with policy teams over several sessions to shape new policies before they are finalised.
+
+## Problem
+
+Policies are often designed without hearing from the people most affected, and public consultations tend to attract the same small group of highly engaged voices.
+
+## Target Beneficiaries & Use Cases
+
+Residents from all backgrounds, selected randomly to reflect the population, and policy teams in government entities working on new regulations or services.
+
+## Solution / Service Overview
+
+The initiative proposes that for selected policies, a group of about 25 residents would meet in four facilitated sessions, receive balanced information, hear from experts, and produce written recommendations. The policy team would be expected to publish a response explaining which recommendations were adopted and why.
+
+## Delivery Model
+
+Run by a small facilitation unit, with sessions held in community centers and online.
+
+## Funding & Sustainability
+
+Funded from a central innovation budget; participants would receive a small allowance for their time.
+
+## What Makes It New
+
+Random selection brings in voices that consultations usually miss.
+
+## Measuring Impact
+
+Proposed indicators include the share of recommendations adopted, participant trust in government before and after, and diversity of participants.
+
+## Risks & Mitigation
+
+Recommendations may be ignored; the initiative plans to require a public written response for each one."
+"skills-passport","Workforce","## One-Sentence Summary
+
+A digital skills passport that holds a person's verified qualifications, training certificates, and work experience in one place for job applications.
+
+## Problem
+
+Job seekers must repeatedly submit and verify the same certificates, and employers struggle to check whether qualifications are genuine.
+
+## Target Beneficiaries & Use Cases
+
+Job seekers and employers.
+
+## Solution / Service Overview
+
+The initiative proposes a digital wallet where universities, training providers, and employers would issue verified records that a person could share with one link.
+
+## Delivery Model
+
+Delivered through the government app.
+
+## Funding & Sustainability
+
+Funded by the government.
+
+## What Makes It New
+
+It puts all verified skills in one place.
+
+## Measuring Impact
+
+The plan is to count the number of passports issued.
+
+## Risks & Mitigation
+
+Institutions may be slow to join."
+"school-wellbeing-check","Education","## One-Sentence Summary
+
+A proposed early wellbeing check for students that would use a short, private monthly questionnaire to help school counsellors spot students who may be struggling, before problems become serious.
+
+## Problem
+
+Mental health difficulties among young people often go unnoticed until they affect attendance, grades, or safety. School counsellors have many students and few ways to know who needs help first.
+
+## Target Beneficiaries & Use Cases
+
+Students aged 12 to 18 in public schools, their parents, and school counsellors.
+
+## Solution / Service Overview
+
+The initiative proposes a five-minute monthly questionnaire on a school device, based on validated wellbeing questions. Answers would be seen only by the counsellor, who would receive a prioritised list of students to check in with. Students could also request a conversation directly through the tool.
+
+## Delivery Model
+
+Delivered through schools, with training for counsellors and a clear referral path to health services for serious cases.
+
+## Funding & Sustainability
+
+The plan is to fund it from the education wellbeing budget.
+
+## What Makes It New
+
+It turns wellbeing support from reactive to early and gives counsellors a way to prioritise.
+
+## Measuring Impact
+
+Proposed indicators include the number of students supported early, counsellor response times, and student-reported wellbeing over the school year.
+
+## Risks & Mitigation
+
+Privacy concerns from parents are a major risk; the initiative plans parental consent, strict data access rules, and no link to grades or discipline records."
+"flood-early-warning","Emergency","## One-Sentence Summary
+
+A proposed neighborhood-level flash-flood warning system that would send residents location-specific alerts and safe-route guidance during heavy rain.
+
+## Problem
+
+Heavy rain can quickly flood low-lying roads and underpasses, trapping drivers and damaging homes. General weather warnings do not tell people which streets to avoid.
+
+## Target Beneficiaries & Use Cases
+
+Residents and drivers in flood-prone areas, and emergency services.
+
+## Solution / Service Overview
+
+The initiative proposes water-level sensors in known flood spots, combined with rainfall forecasts, to predict which roads are likely to flood in the next hours. Alerts would be sent to phones in the affected area, and navigation apps would be invited to reroute drivers.
+
+## Delivery Model
+
+Delivered by the emergency authority with the roads authority.
+
+## Funding & Sustainability
+
+Funded from the emergency preparedness budget.
+
+## What Makes It New
+
+It gives street-level warnings instead of city-wide ones.
+
+## Measuring Impact
+
+The plan is to track flood-related emergency calls and vehicles trapped during storms.
+
+## Risks & Mitigation
+
+Sensors may fail during storms; the initiative plans backup power and regular maintenance."
+"sme-procurement-access","Procurement","## One-Sentence Summary
+
+A proposal to make government purchasing easier for small businesses by splitting large contracts into smaller lots and publishing simple, plain-language tenders.
+
+## Problem
+
+Small businesses rarely win government contracts because tenders are large, complex, and require heavy paperwork and guarantees.
+
+## Target Beneficiaries & Use Cases
+
+Small and medium businesses and government procurement teams.
+
+## Solution / Service Overview
+
+The initiative proposes smaller contract lots, a simplified tender template, and a reduced guarantee requirement for small contracts.
+
+## Delivery Model
+
+Delivered through the existing procurement portal.
+
+## Funding & Sustainability
+
+No extra funding needed.
+
+## What Makes It New
+
+Simpler tenders for small firms.
+
+## Measuring Impact
+
+The plan is to measure the share of contracts won by small businesses.
+
+## Risks & Mitigation
+
+Quality risk from smaller suppliers; the plan is to keep performance checks."

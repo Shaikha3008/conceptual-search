@@ -462,14 +462,16 @@ class FidelityAuditor:
     _PROSPECTIVE_MARKERS = re.compile(
         r"\b(?:hypothetical|prospective|proposed|planned|future)\b|"
         r"\b(?:would|could|will)\b|"
-        r"\b(?:we|the team|the project|the company|the platform)\s+"
+        r"\b(?:we|the team|the project|the company|the platform|"
+        r"the initiative|the program|the programme|the service)\s+"
         r"(?:plan|plans|propose|proposes|intend|intends|aim|aims)\b",
         re.IGNORECASE,
     )
     _EXISTING_ACHIEVEMENT_MARKERS = re.compile(
         r"\b(?:already|currently|to date|so far|at present)\b|"
         r"\b(?:current|existing)\s+(?:customers?|users?|partners?|revenue|sales|pilots?|tests?)\b|"
-        r"\b(?:we|the team|the project|the company|the platform|the product)\s+"
+        r"\b(?:we|the team|the project|the company|the platform|the product|"
+        r"the initiative|the program|the programme|the service|the government)\s+"
         r"(?:has|have|had|serves?|partners?|works?)\b|"
         r"\b(?:has|have|had)\s+(?:already\s+)?"
         r"(?:served|signed|raised|generated|launched|built|tested|enrolled|secured|partnered|won|earned)\b",

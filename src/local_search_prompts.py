@@ -138,3 +138,18 @@ Below are two versions of a crowdfunding project description.
 Summarize in 2-3 sentences what changed between the old and new version. \
 Focus on the key differences in content, emphasis, or strategy. \
 Output only the summary, nothing else."""
+
+# Domain switch: AI_ENTREP_DOMAIN=government swaps in the government-initiative
+# prompts (same placeholders and markers).  Unset keeps the paper's prompts.
+import os as _os
+
+if _os.environ.get("AI_ENTREP_DOMAIN", "").strip().lower() == "government":
+    from government_prompts import (  # noqa: E402,F811
+        EVALUATION_CRITERIA,
+        EVALUATOR_PROMPT,
+        FACTUAL_FIDELITY_RULES,
+        FIDELITY_AUDITOR_PROMPT,
+        GENERATOR_PROMPT,
+        NARRATIVE_DIFF_PROMPT,
+        SPECIALIZED_GENERATOR_PROMPT,
+    )
