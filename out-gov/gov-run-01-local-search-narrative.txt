@@ -1,0 +1,355 @@
+* Step 0: Initial state
+
+## One-Sentence Summary
+
+A proposed service that detects life events such as the birth of a child, job loss, or retirement and would offer eligible families the relevant government support automatically, without an application.
+
+## Problem
+
+Many families who qualify for social support never receive it because they do not know it exists, the rules are hard to understand, or the application requires documents from several entities. People in difficult moments, such as after losing a job, face the most paperwork at the time they have the least energy for it.
+
+## Target Beneficiaries & Use Cases
+
+Families going through major life events: new parents, people who recently lost their job, new retirees, and people with a newly registered disability. A typical use case is a mother who registers a birth and, within days, would receive a message listing the support she qualifies for, with one tap to accept.
+
+## Solution / Service Overview
+
+The initiative proposes linking existing government records, with the person's consent, so that eligibility could be checked in the background when a life event is registered. The citizen would receive a clear message explaining what they qualify for and why, and could accept, decline, or ask a human case worker for help. No new documents would be requested when the information already exists in government systems.
+
+## Delivery Model
+
+The service would be delivered through the existing government app and SMS, with a phone line and service centers for people who are not digital. A small central team would maintain the eligibility rules, and each participating entity would keep ownership of its own data.
+
+## Funding & Sustainability
+
+The initiative plans to be funded from the existing social support budget, with the aim of offsetting costs through reduced application processing and fewer appeals. A proposed first phase would cover three life events before expanding.
+
+## What Makes It New
+
+Most government services wait for people to apply. This proposal reverses the direction: the government would come to the citizen at the moment of need, which is rare in social services.
+
+## Measuring Impact
+
+Proposed indicators include the share of eligible families receiving support, the time from life event to first payment, and citizen satisfaction. A planned comparison with the current application route would test whether uptake improves.
+
+## Risks & Mitigation
+
+Privacy and consent are the main risks; the initiative proposes an explicit opt-in and a clear record of which data was used. Wrong eligibility decisions would be reduced by keeping a human review step for edge cases.
+
+* Step 1
+
+** Description (cell F2 in CSV)
+
+## One-Sentence Summary
+
+A proposed service that detects life events such as the birth of a child, job loss, or retirement and would offer eligible families the relevant government support automatically, without an application.
+
+## Problem
+
+Many families who qualify for social support never receive it because they do not know it exists, the rules are hard to understand, or the application requires documents from several entities. People in difficult moments, such as after losing a job, face the most paperwork at the time they have the least energy for it.
+
+## Target Beneficiaries & Use Cases
+
+Families going through major life events: new parents, people who recently lost their job, new retirees, and people with a newly registered disability. A typical use case is a mother who registers a birth and, within days, would receive a message listing the support she qualifies for, with one tap to accept.
+
+## Solution / Service Overview
+
+The initiative proposes linking existing government records, with the person's consent, so that eligibility could be checked in the background when a life event is registered. The citizen would receive a clear message explaining what they qualify for and why, and could accept, decline, or ask a human case worker for help. No new documents would be requested when the information already exists in government systems. The proposal includes a planned small-scale test of a 'decline feedback' channel, asking beneficiaries who decline automated offers to optionally share their reasons, to improve targeting and communication.
+
+## Delivery Model
+
+The service would be delivered through the existing government app and SMS, with a phone line and service centers for people who are not digital. A small central team would maintain the eligibility rules, and each participating entity would keep ownership of its own data.
+
+## Funding & Sustainability
+
+The initiative plans to be funded from the existing social support budget, with the aim of offsetting costs through reduced application processing and fewer appeals. A proposed first phase would cover three life events before expanding.
+
+## What Makes It New
+
+Most government services wait for people to apply. This proposal reverses the direction: the government would come to the citizen at the moment of need, which is rare in social services.
+
+## Measuring Impact
+
+Proposed indicators include the share of eligible families receiving support, the time from life event to first payment, and citizen satisfaction. A planned comparison with the current application route would test whether uptake improves. Insights from the proposed 'decline feedback' test would be used to refine these measures.
+
+## Risks & Mitigation
+
+Privacy and consent are the main risks; the initiative proposes an explicit opt-in and a clear record of which data was used. Wrong eligibility decisions would be reduced by keeping a human review step for edge cases.
+
+** Difference from step 0
+
+The new version adds a specific feature to the solution: a small-scale test of a 'decline feedback' channel to learn why beneficiaries might refuse automated support offers. This addition is also referenced in the 'Measuring Impact' section, where it is noted that insights from this feedback will help refine the program's metrics. The core proposal remains otherwise unchanged.
+
+* Step 2
+
+** Description (cell E3 in CSV)
+
+## One-Sentence Summary
+
+A proposed service that detects life events such as the birth of a child, job loss, or retirement and would offer eligible families the relevant government support automatically, without an application.
+
+## Problem
+
+Many families who qualify for social support never receive it because they do not know it exists, the rules are hard to understand, or the application requires documents from several entities. People in difficult moments, such as after losing a job, face the most paperwork at the time they have the least energy for it.
+
+## Target Beneficiaries & Use Cases
+
+Families going through major life events: new parents, people who recently lost their job, new retirees, and people with a newly registered disability. A typical use case is a mother who registers a birth and, within days, would receive a message listing the support she qualifies for, with one tap to accept.
+
+## Solution / Service Overview
+
+The initiative proposes linking existing government records, with the person's consent, so that eligibility could be checked in the background when a life event is registered. The citizen would receive a clear message explaining what they qualify for and why, and could accept, decline, or ask a human case worker for help. No new documents would be requested when the information already exists in government systems. The proposal includes a planned small-scale test of a 'decline feedback' channel, asking beneficiaries who decline automated offers to optionally share their reasons, to improve targeting and communication.
+
+## Delivery Model
+
+The service would be delivered through the existing government app and SMS, with a phone line and service centers for people who are not digital. A proposed enhancement to this model is a hypothetical partnership with a select number of trusted, non-governmental community organizations to act as 'digital navigators' for the phone line and service centers. These navigators would specifically assist non-digital users in understanding and responding to the automated offers, thereby testing an enhanced inclusion model. A small central team would maintain the eligibility rules, and each participating entity would keep ownership of its own data.
+
+## Funding & Sustainability
+
+The initiative plans to be funded from the existing social support budget, with the aim of offsetting costs through reduced application processing and fewer appeals. A proposed first phase would cover three life events before expanding.
+
+## What Makes It New
+
+Most government services wait for people to apply. This proposal reverses the direction: the government would come to the citizen at the moment of need, which is rare in social services.
+
+## Measuring Impact
+
+Proposed indicators include the share of eligible families receiving support, the time from life event to first payment, and citizen satisfaction. A planned comparison with the current application route would test whether uptake improves. Insights from the proposed 'decline feedback' test would be used to refine these measures. The proposed partnership with community navigators would provide additional data on effectiveness for non-digital users.
+
+## Risks & Mitigation
+
+Privacy and consent are the main risks; the initiative proposes an explicit opt-in and a clear record of which data was used. Wrong eligibility decisions would be reduced by keeping a human review step for edge cases.
+
+** Difference from step 1
+
+The new version adds a proposed enhancement to the delivery model: a hypothetical partnership with trusted community organizations to provide 'digital navigators' who would assist non-digital users. This change places greater emphasis on inclusion and support for those less comfortable with technology, which is then reflected as an additional consideration in the Measuring Impact section.
+
+* Step 3
+
+** Description (cell C4 in CSV)
+
+## One-Sentence Summary
+
+A proposed service that detects life events such as the birth of a child, job loss, or retirement and would offer eligible families the relevant government support automatically, without an application.
+
+## Problem
+
+Many families who qualify for social support never receive it because they do not know it exists, the rules are hard to understand, or the application requires documents from several entities. People in difficult moments, such as after losing a job, face the most paperwork at the time they have the least energy for it.
+
+## Target Beneficiaries & Use Cases
+
+Families going through major life events: new parents, people who recently lost their job, new retirees, and people with a newly registered disability. A typical use case is a mother who registers a birth and, within days, would receive a message listing the support she qualifies for, with one tap to accept.
+
+## Solution / Service Overview
+
+The initiative proposes linking existing government records, with the person's consent, so that eligibility could be checked in the background when a life event is registered. The citizen would receive a clear message explaining what they qualify for and why, and could accept, decline, or ask a human case worker for help. No new documents would be requested when the information already exists in government systems. The proposal includes a planned small-scale test of a 'decline feedback' channel, asking beneficiaries who decline automated offers to optionally share their reasons, to improve targeting and communication. Furthermore, the proposal includes a planned small, targeted test of a 'pre-emptive information' channel. This test would send a brief, plain-language summary of data usage and privacy safeguards alongside the initial offer message, aiming to build trust and increase opt-in rates.
+
+## Delivery Model
+
+The service would be delivered through the existing government app and SMS, with a phone line and service centers for people who are not digital. A proposed enhancement to this model is a hypothetical partnership with a select number of trusted, non-governmental community organizations to act as 'digital navigators' for the phone line and service centers. These navigators would specifically assist non-digital users in understanding and responding to the automated offers, thereby testing an enhanced inclusion model. A small central team would maintain the eligibility rules, and each participating entity would keep ownership of its own data.
+
+## Funding & Sustainability
+
+The initiative plans to be funded from the existing social support budget, with the aim of offsetting costs through reduced application processing and fewer appeals. A proposed first phase would cover three life events before expanding.
+
+## What Makes It New
+
+Most government services wait for people to apply. This proposal reverses the direction: the government would come to the citizen at the moment of need, which is rare in social services.
+
+## Measuring Impact
+
+Proposed indicators include the share of eligible families receiving support, the time from life event to first payment, and citizen satisfaction. A planned comparison with the current application route would test whether uptake improves. Insights from the proposed 'decline feedback' test would be used to refine these measures. The proposed partnership with community navigators would provide additional data on effectiveness for non-digital users. The proposed test of the 'pre-emptive information' channel would provide specific data on its effect on opt-in rates.
+
+## Risks & Mitigation
+
+Privacy and consent are the main risks; the initiative proposes an explicit opt-in and a clear record of which data was used. The proposed test of the 'pre-emptive information' channel is a planned mitigation aimed directly at building trust around these concerns. Wrong eligibility decisions would be reduced by keeping a human review step for edge cases.
+
+** Difference from step 2
+
+The new version adds a planned test of a 'pre-emptive information' channel, which would send a brief summary of data usage and privacy safeguards alongside the initial offer to build trust and increase opt-in rates. This addition is integrated as a new component of the solution and its impact measurement, and is also explicitly listed as a mitigation for the primary privacy and consent risks.
+
+* Step 4
+
+** Description (cell C5 in CSV)
+
+## One-Sentence Summary
+
+A proposed service that detects life events such as the birth of a child, job loss, or retirement and would offer eligible families the relevant government support automatically, without an application.
+
+## Problem
+
+Many families who qualify for social support never receive it because they do not know it exists, the rules are hard to understand, or the application requires documents from several entities. People in difficult moments, such as after losing a job, face the most paperwork at the time they have the least energy for it.
+
+## Target Beneficiaries & Use Cases
+
+Families going through major life events: new parents, people who recently lost their job, new retirees, and people with a newly registered disability. A typical use case is a mother who registers a birth and, within days, would receive a message listing the support she qualifies for, with one tap to accept.
+
+## Solution / Service Overview
+
+The initiative proposes linking existing government records, with the person's consent, so that eligibility could be checked in the background when a life event is registered. The citizen would receive a clear message explaining what they qualify for and why, and could accept, decline, or ask a human case worker for help. No new documents would be requested when the information already exists in government systems. The proposal includes a planned small-scale test of a 'decline feedback' channel, asking beneficiaries who decline automated offers to optionally share their reasons, to improve targeting and communication. Furthermore, the proposal includes a planned small, targeted test of a 'pre-emptive information' channel. This test would send a brief, plain-language summary of data usage and privacy safeguards alongside the initial offer message, aiming to build trust and increase opt-in rates. Additionally, the proposal includes a planned, small-scale test of a 'reverse notification' feature. This would allow users to proactively and securely flag a life event (e.g., job loss) within the government app to trigger the automated eligibility check, providing a bridge for events not automatically captured by registration systems.
+
+## Delivery Model
+
+The service would be delivered through the existing government app and SMS, with a phone line and service centers for people who are not digital. A proposed enhancement to this model is a hypothetical partnership with a select number of trusted, non-governmental community organizations to act as 'digital navigators' for the phone line and service centers. These navigators would specifically assist non-digital users in understanding and responding to the automated offers, thereby testing an enhanced inclusion model. A small central team would maintain the eligibility rules, and each participating entity would keep ownership of its own data.
+
+## Funding & Sustainability
+
+The initiative plans to be funded from the existing social support budget, with the aim of offsetting costs through reduced application processing and fewer appeals. A proposed first phase would cover three life events before expanding.
+
+## What Makes It New
+
+Most government services wait for people to apply. This proposal reverses the direction: the government would come to the citizen at the moment of need, which is rare in social services.
+
+## Measuring Impact
+
+Proposed indicators include the share of eligible families receiving support, the time from life event to first payment, and citizen satisfaction. A planned comparison with the current application route would test whether uptake improves. Insights from the proposed 'decline feedback' test would be used to refine these measures. The proposed partnership with community navigators would provide additional data on effectiveness for non-digital users. The proposed test of the 'pre-emptive information' channel would provide specific data on its effect on opt-in rates. The proposed test of the 'reverse notification' feature would provide data on its usage and effectiveness in capturing life events that are otherwise not automatically registered.
+
+## Risks & Mitigation
+
+Privacy and consent are the main risks; the initiative proposes an explicit opt-in and a clear record of which data was used. The proposed test of the 'pre-emptive information' channel is a planned mitigation aimed directly at building trust around these concerns. Wrong eligibility decisions would be reduced by keeping a human review step for edge cases.
+
+** Difference from step 3
+
+The new version adds a planned test for a 'reverse notification' feature, allowing users to proactively report a life event to trigger support checks. This addition addresses a gap for events not automatically captured by official registration systems. All other sections remain unchanged, with this feature being the sole substantive addition.
+
+* Step 5
+
+** Description (cell C6 in CSV)
+
+## One-Sentence Summary
+
+A proposed service that detects life events such as the birth of a child, job loss, or retirement and would offer eligible families the relevant government support automatically, without an application.
+
+## Problem
+
+Many families who qualify for social support never receive it because they do not know it exists, the rules are hard to understand, or the application requires documents from several entities. People in difficult moments, such as after losing a job, face the most paperwork at the time they have the least energy for it.
+
+## Target Beneficiaries & Use Cases
+
+Families going through major life events: new parents, people who recently lost their job, new retirees, and people with a newly registered disability. A typical use case is a mother who registers a birth and, within days, would receive a message listing the support she qualifies for, with one tap to accept.
+
+## Solution / Service Overview
+
+The initiative proposes linking existing government records, with the person's consent, so that eligibility could be checked in the background when a life event is registered. The citizen would receive a clear message explaining what they qualify for and why, and could accept, decline, or ask a human case worker for help. No new documents would be requested when the information already exists in government systems. The proposal includes a planned small-scale test of a 'decline feedback' channel, asking beneficiaries who decline automated offers to optionally share their reasons, to improve targeting and communication. Furthermore, the proposal includes a planned small, targeted test of a 'pre-emptive information' channel. This test would send a brief, plain-language summary of data usage and privacy safeguards alongside the initial offer message, aiming to build trust and increase opt-in rates. Additionally, the proposal includes a planned, small-scale test of a 'reverse notification' feature. This would allow users to proactively and securely flag a life event (e.g., job loss) within the government app to trigger the automated eligibility check, providing a bridge for events not automatically captured by registration systems. The proposal also includes a planned small-scale test of a 'trusted intermediary' consent model. In this test, a citizen could authorize a pre-vetted community organization (e.g., a local family center) to receive and help them understand the automated offer on their behalf, specifically for non-digital users.
+
+## Delivery Model
+The service would be delivered through the existing government app and SMS, with a phone line and service centers for people who are not digital. A proposed enhancement to this model is a hypothetical partnership with a select number of trusted, non-governmental community organizations to act as 'digital navigators' for the phone line and service centers. These navigators would specifically assist non-digital users in understanding and responding to the automated offers, thereby testing an enhanced inclusion model. The proposed test of the 'trusted intermediary' consent model would be integrated into this navigator partnership, allowing authorized organizations to act as formal intermediaries for consenting users. A small central team would maintain the eligibility rules, and each participating entity would keep ownership of its own data.
+
+## Funding & Sustainability
+The initiative plans to be funded from the existing social support budget, with the aim of offsetting costs through reduced application processing and fewer appeals. A proposed first phase would cover three life events before expanding.
+
+## What Makes It New
+Most government services wait for people to apply. This proposal reverses the direction: the government would come to the citizen at the moment of need, which is rare in social services.
+
+## Measuring Impact
+Proposed indicators include the share of eligible families receiving support, the time from life event to first payment, and citizen satisfaction. A planned comparison with the current application route would test whether uptake improves. Insights from the proposed 'decline feedback' test would be used to refine these measures. The proposed partnership with community navigators would provide additional data on effectiveness for non-digital users. The proposed test of the 'pre-emptive information' channel would provide specific data on its effect on opt-in rates. The proposed test of the 'reverse notification' feature would provide data on its usage and effectiveness in capturing life events that are otherwise not automatically registered. The proposed test of the 'trusted intermediary' consent model would provide data on its uptake and effect on support access for non-digital users.
+
+## Risks & Mitigation
+Privacy and consent are the main risks; the initiative proposes an explicit opt-in and a clear record of which data was used. The proposed test of the 'pre-emptive information' channel is a planned mitigation aimed directly at building trust around these concerns. The 'trusted intermediary' model introduces additional data-sharing considerations, which the proposed small-scale test would aim to evaluate. Wrong eligibility decisions would be reduced by keeping a human review step for edge cases.
+
+** Difference from step 4
+
+The new version adds a planned test of a 'trusted intermediary' consent model, allowing a citizen to authorize a community organization to receive and explain the automated offer on their behalf. This addition is integrated into the delivery model and impact measurement, placing a stronger emphasis on inclusion for non-digital users. All other tests and the core proposal remain unchanged.
+
+* Step 6
+
+** Description (cell D7 in CSV)
+
+## One-Sentence Summary
+
+A proposed service that detects life events such as the birth of a child, job loss, or retirement and would offer eligible families the relevant government support automatically, without an application.
+
+## Problem
+
+Many families who qualify for social support never receive it because they do not know it exists, the rules are hard to understand, or the application requires documents from several entities. People in difficult moments, such as after losing a job, face the most paperwork at the time they have the least energy for it.
+
+## Target Beneficiaries & Use Cases
+
+Families going through major life events: new parents, people who recently lost their job, new retirees, and people with a newly registered disability. A typical use case is a mother who registers a birth and, within days, would receive a message listing the support she qualifies for, with one tap to accept.
+
+## Solution / Service Overview
+
+The initiative proposes linking existing government records, with the person's consent, so that eligibility could be checked in the background when a life event is registered. The citizen would receive a clear message explaining what they qualify for and why, and could accept, decline, or ask a human case worker for help. No new documents would be requested when the information already exists in government systems. The proposal includes a planned small-scale test of a 'decline feedback' channel, asking beneficiaries who decline automated offers to optionally share their reasons, to improve targeting and communication. Furthermore, the proposal includes a planned small, targeted test of a 'pre-emptive information' channel. This test would send a brief, plain-language summary of data usage and privacy safeguards alongside the initial offer message, aiming to build trust and increase opt-in rates. Additionally, the proposal includes a planned, small-scale test of a 'reverse notification' feature. This would allow users to proactively and securely flag a life event (e.g., job loss) within the government app to trigger the automated eligibility check, providing a bridge for events not automatically captured by registration systems. This proposed test of the 'reverse notification' feature would also include integrating it with a secure, verifiable document upload function for the single most common missing document (e.g., a termination letter), to bridge the gap for events not fully captured in government records. The proposal also includes a planned small-scale test of a 'trusted intermediary' consent model. In this test, a citizen could authorize a pre-vetted community organization (e.g., a local family center) to receive and help them understand the automated offer on their behalf, specifically for non-digital users.
+
+## Delivery Model
+The service would be delivered through the existing government app and SMS, with a phone line and service centers for people who are not digital. A proposed enhancement to this model is a hypothetical partnership with a select number of trusted, non-governmental community organizations to act as 'digital navigators' for the phone line and service centers. These navigators would specifically assist non-digital users in understanding and responding to the automated offers, thereby testing an enhanced inclusion model. The proposed test of the 'trusted intermediary' consent model would be integrated into this navigator partnership, allowing authorized organizations to act as formal intermediaries for consenting users. A small central team would maintain the eligibility rules, and each participating entity would keep ownership of its own data.
+
+## Funding & Sustainability
+The initiative plans to be funded from the existing social support budget, with the aim of offsetting costs through reduced application processing and fewer appeals. A proposed first phase would cover three life events before expanding.
+
+## What Makes It New
+Most government services wait for people to apply. This proposal reverses the direction: the government would come to the citizen at the moment of need, which is rare in social services.
+
+## Measuring Impact
+Proposed indicators include the share of eligible families receiving support, the time from life event to first payment, and citizen satisfaction. A planned comparison with the current application route would test whether uptake improves. Insights from the proposed 'decline feedback' test would be used to refine these measures. The proposed partnership with community navigators would provide additional data on effectiveness for non-digital users. The proposed test of the 'pre-emptive information' channel would provide specific data on its effect on opt-in rates. The proposed test of the 'reverse notification' feature, including its integrated document upload function, would provide data on its usage and effectiveness in capturing life events that are otherwise not automatically registered and in overcoming document gaps. The proposed test of the 'trusted intermediary' consent model would provide data on its uptake and effect on support access for non-digital users.
+
+## Risks & Mitigation
+Privacy and consent are the main risks; the initiative proposes an explicit opt-in and a clear record of which data was used. The proposed test of the 'pre-emptive information' channel is a planned mitigation aimed directly at building trust around these concerns. The 'trusted intermediary' model introduces additional data-sharing considerations, which the proposed small-scale test would aim to evaluate. The integrated document upload function would require robust security, which would be a focus of the small-scale test design. Wrong eligibility decisions would be reduced by keeping a human review step for edge cases.
+
+** Difference from step 5
+
+The new version adds a specific, practical enhancement to the 'reverse notification' feature: it now includes a secure document upload function for the most common missing document (e.g., a termination letter) to address gaps in government records. This change refines the strategy by directly tackling a key barrier to automated eligibility checks. The update also adds a corresponding risk mitigation note regarding the security of this new upload function.
+
+* Step 7
+
+** Description (cell E8 in CSV)
+
+## One-Sentence Summary
+
+A proposed service that detects life events such as the birth of a child, job loss, or retirement and would offer eligible families the relevant government support automatically, without an application.
+
+## Problem
+
+Many families who qualify for social support never receive it because they do not know it exists, the rules are hard to understand, or the application requires documents from several entities. People in difficult moments, such as after losing a job, face the most paperwork at the time they have the least energy for it.
+
+## Target Beneficiaries & Use Cases
+
+Families going through major life events: new parents, people who recently lost their job, new retirees, and people with a newly registered disability. A typical use case is a mother who registers a birth and, within days, would receive a message listing the support she qualifies for, with one tap to accept.
+
+## Solution / Service Overview
+
+The initiative proposes linking existing government records, with the person's consent, so that eligibility could be checked in the background when a life event is registered. The citizen would receive a clear message explaining what they qualify for and why, and could accept, decline, or ask a human case worker for help. No new documents would be requested when the information already exists in government systems. The proposal includes a planned small-scale test of a 'decline feedback' channel, asking beneficiaries who decline automated offers to optionally share their reasons, to improve targeting and communication. Furthermore, the proposal includes a planned small, targeted test of a 'pre-emptive information' channel. This test would send a brief, plain-language summary of data usage and privacy safeguards alongside the initial offer message, aiming to build trust and increase opt-in rates. Additionally, the proposal includes a planned, small-scale test of a 'reverse notification' feature. This would allow users to proactively and securely flag a life event (e.g., job loss) within the government app to trigger the automated eligibility check, providing a bridge for events not automatically captured by registration systems. This proposed test of the 'reverse notification' feature would also include integrating it with a secure, verifiable document upload function for the single most common missing document (e.g., a termination letter), to bridge the gap for events not fully captured in government records. The proposed test would also include a 'life event confirmation receipt' that users can save or share, providing them with a tangible record of their proactive notification to the government. The proposal also includes a planned small-scale test of a 'trusted intermediary' consent model. In this test, a citizen could authorize a pre-vetted community organization (e.g., a local family center) to receive and help them understand the automated offer on their behalf, specifically for non-digital users.
+
+## Delivery Model
+
+The service would be delivered through the existing government app and SMS, with a phone line and service centers for people who are not digital. A proposed enhancement to this model is a hypothetical partnership with a select number of trusted, non-governmental community organizations to act as 'digital navigators' for the phone line and service centers. These navigators would specifically assist non-digital users in understanding and responding to the automated offers, thereby testing an enhanced inclusion model. The proposed test of the 'trusted intermediary' consent model would be integrated into this navigator partnership, allowing authorized organizations to act as formal intermediaries for consenting users. A small central team would maintain the eligibility rules, and each participating entity would keep ownership of its own data.
+
+## Funding & Sustainability
+
+The initiative plans to be funded from the existing social support budget, with the aim of offsetting costs through reduced application processing and fewer appeals. A proposed first phase would cover three life events before expanding.
+
+## What Makes It New
+
+Most government services wait for people to apply. This proposal reverses the direction: the government would come to the citizen at the moment of need, which is rare in social services.
+
+## Measuring Impact
+
+Proposed indicators include the share of eligible families receiving support, the time from life event to first payment, and citizen satisfaction. A planned comparison with the current application route would test whether uptake improves. Insights from the proposed 'decline feedback' test would be used to refine these measures. The proposed partnership with community navigators would provide additional data on effectiveness for non-digital users. The proposed test of the 'pre-emptive information' channel would provide specific data on its effect on opt-in rates. The proposed test of the 'reverse notification' feature, including its integrated document upload function and the 'life event confirmation receipt', would provide data on its usage and effectiveness in capturing life events that are otherwise not automatically registered and in overcoming document gaps, as well as on user experience. The proposed test of the 'trusted intermediary' consent model would provide data on its uptake and effect on support access for non-digital users.
+
+## Risks & Mitigation
+
+Privacy and consent are the main risks; the initiative proposes an explicit opt-in and a clear record of which data was used. The proposed test of the 'pre-emptive information' channel is a planned mitigation aimed directly at building trust around these concerns. The 'trusted intermediary' model introduces additional data-sharing considerations, which the proposed small-scale test would aim to evaluate. The integrated document upload function would require robust security, which would be a focus of the small-scale test design. Wrong eligibility decisions would be reduced by keeping a human review step for edge cases.
+
+** Difference from step 6
+
+The key change is the addition of a 'life event confirmation receipt' within the 'reverse notification' feature test. This provides users who proactively report a life event with a tangible record of their notification, enhancing transparency and user experience. All other elements, including the other proposed tests and the overall strategy, remain identical between the two versions.
+
+* Step 8
+
+(no change -- incumbent wins)
+
+* Step 9
+
+(no change -- incumbent wins)
+
+* Step 10
+
+(no change -- incumbent wins)
+
+* Step 11
+
+(no change -- incumbent wins)
+
+* Step 12
+
+(no change -- incumbent wins)

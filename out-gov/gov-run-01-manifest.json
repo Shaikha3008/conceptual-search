@@ -1,0 +1,241 @@
+{
+  "actual_usage": {
+    "input_tokens": 8465049,
+    "output_tokens": 3261202,
+    "provider_reported_cost_usd": 4.166068,
+    "token_price_estimate_usd": 2.76754,
+    "unique_live_calls": 4923
+  },
+  "api_base_url": "https://openrouter.ai/api/v1",
+  "artifacts": {
+    "call_cache": "out-gov/gov-run-01-call-cache.sqlite3",
+    "global": {
+      "candidates": "out-gov/gov-run-01-global-candidates.csv",
+      "csv": "out-gov/gov-run-01-global-search.csv",
+      "fidelity_audits": "out-gov/gov-run-01-global-fidelity-audits.csv",
+      "log": "out-gov/gov-run-01-global-search.log",
+      "matches": "out-gov/gov-run-01-global-matches.csv",
+      "narrative": "out-gov/gov-run-01-global-search-narrative.txt"
+    },
+    "local": {
+      "candidates": "out-gov/gov-run-01-local-candidates.csv",
+      "csv": "out-gov/gov-run-01-local-search.csv",
+      "fidelity_audits": "out-gov/gov-run-01-local-fidelity-audits.csv",
+      "log": "out-gov/gov-run-01-local-search.log",
+      "matches": "out-gov/gov-run-01-local-matches.csv",
+      "narrative": "out-gov/gov-run-01-local-search-narrative.txt"
+    },
+    "output_directory": "out-gov",
+    "quality": {
+      "log": "out-gov/gov-run-01-common-quality.log",
+      "matches": "out-gov/gov-run-01-common-quality-matches.csv",
+      "summary": "out-gov/gov-run-01-common-quality.csv"
+    },
+    "semantic_scores": {
+      "scores": "out-gov/gov-run-01-semantic-scores.csv"
+    }
+  },
+  "cache_ledger_usage": {
+    "input_tokens": 8465049,
+    "output_tokens": 3261202,
+    "provider_reported_cost_usd": 4.166068,
+    "token_price_estimate_usd": 2.76754,
+    "unique_live_calls": 4923
+  },
+  "completed_at": "2026-09-24T13:05:43",
+  "cost": {
+    "estimated_tokens_m": {
+      "input": 16.325,
+      "output": 5.272
+    },
+    "estimated_usd": 5.021,
+    "price_snapshot_date": "2026-08-06",
+    "price_source": "https://openrouter.ai/deepseek/deepseek-v3.2/pricing",
+    "price_usd_per_million_tokens": {
+      "input": 0.2072,
+      "output": 0.3108
+    },
+    "scope": "global search, local search, seed-benchmark scoring, semantic scores"
+  },
+  "created_at": "2026-09-24T11:34:32",
+  "execution_mode": "live_openrouter",
+  "firm_ids": [
+    "proactive-benefits",
+    "one-visit-business",
+    "heat-safe-work",
+    "senior-companion",
+    "service-feedback-loop",
+    "youth-micro-internships",
+    "recycling-rewards",
+    "home-tele-rehab",
+    "traffic-digital-twin",
+    "smart-water-leaks",
+    "citizen-policy-lab",
+    "skills-passport",
+    "school-wellbeing-check",
+    "flood-early-warning",
+    "sme-procurement-access"
+  ],
+  "firm_set": "in/gov-firm-set-15.txt",
+  "git_commit": "97f80f45120719eca1dce2fc7c5a526bc5725a91",
+  "input_file": "in/gov-ideas.csv",
+  "input_hashes_sha256": {
+    "in/gov-firm-set-15.txt": "2cbec56ee2cee9e27112c1648d002c65f7e7e0a5ed834253acd4074b29b6a488",
+    "in/gov-ideas.csv": "9b1bc087a593dad6ad5f8fa9d9add00add5e2910fd5230889da2c0b9f25b7ce3",
+    "selected_firm_records": "9b763de570cd42c7b2ba835b4366470a85dc5bcad0155f10595eecac1a74e84e",
+    "src/global_search_prompts.py": "1398833f975e4ff452cf7f0ad755218057baf017ea72cba01c0699b0c2daaa84",
+    "src/local_search_prompts.py": "eac973d6e84592b8e4563e0e1e86bf8eaec1544a09066e3248d11ad980f5b0dc",
+    "src/semantic_novelty.py": "eaa44e8e67064510f56ad1c8fc0cfd96f08b94795b9df59446a9017c67ae764a",
+    "src/semantic_scores.py": "17726f6c3e08da6e6de1a3067f835ff0b852c0972f0f890a39764590285cddcf"
+  },
+  "local_seed_arg": "first",
+  "local_seed_id": "proactive-benefits",
+  "max_concurrent_calls": 40,
+  "model": "deepseek/deepseek-v3.2",
+  "model_settings": {
+    "crossover": {
+      "model": "deepseek/deepseek-v3.2",
+      "temperature": 0.5
+    },
+    "evaluator": {
+      "criteria": "1. Impact on people: how many residents, families, workers, or businesses benefit, and how much their lives improve (highest weight)\n2. Innovation: how new the approach is compared with existing government services and common practice (highest weight)\n3. Clarity of the problem and of the proposed initiative\n4. Feasibility and delivery plan\n5. Funding and long-term sustainability\n6. Measurable outcomes and evidence plan (clear indicators and how they will be tracked)\n7. Risk awareness, inclusion, privacy, and mitigation",
+      "design": "double round robin with prompt order reversed",
+      "model": "deepseek/deepseek-v3.2",
+      "temperature": 0.5
+    },
+    "fidelity_auditor": {
+      "model": "deepseek/deepseek-v3.2",
+      "temperature": 0.0
+    },
+    "generator": {
+      "model": "deepseek/deepseek-v3.2",
+      "temperature": 0.5
+    },
+    "max_response_tokens": 2000,
+    "mutator": {
+      "model": "deepseek/deepseek-v3.2",
+      "temperature": 0.5
+    },
+    "narrator": {
+      "model": "deepseek/deepseek-v3.2",
+      "temperature": 0.5
+    },
+    "reasoning_effort": "none",
+    "specialized_generator": {
+      "model": "deepseek/deepseek-v3.2",
+      "temperature": 0.5
+    }
+  },
+  "population_design": {
+    "crossover_children": 5,
+    "crossover_first_parent": "rank-proportional draw from the top-ten selection ranks",
+    "crossover_second_parent": "best-ranked eligible plan (current parent pool, then the original seeds) that adds a founding lineage the first parent lacks",
+    "elite_lineage_cap": 2,
+    "elites": 5,
+    "mutants": 5,
+    "mutation_rule": "one randomly selected component",
+    "novelty_weight": 0.5,
+    "quality_weight": 0.5,
+    "selection_pool_fraction": 0.6666666666666666,
+    "selection_rule": "average of quality and novelty percentile ranks",
+    "size": 15
+  },
+  "prompts": {
+    "crossover": "You are an expert government strategist. Here are two proposed government initiatives:\n\n--- PARENT A ---\n{plan_a}\n--- END PARENT A ---\n\n--- PARENT B ---\n{plan_b}\n--- END PARENT B ---\n\nCreate a NEW government initiative by RECOMBINING the two parents at the level of their six components: problem, customer, solution, delivery_model, revenue_logic, distinctiveness.\n\nRecombination rules:\n1. For each of the six components, choose exactly ONE parent as its source. Take at least two components from each parent. Use these criteria to decide which parent supplies the stronger version of each component:\n{criteria}\n2. Carry each chosen component's substantive DESIGN over faithfully: its approach, mechanism, target group, framing, and reasoning. But the child is a brand-new proposal with no history of its own: do NOT carry claims of existing pilots, users, beneficiaries, budgets, approvals, completed systems, launch status, partners, awards, or any other accomplished evidence from either parent. Where a source component's strength rests on such evidence, re-express the underlying idea as an explicitly proposed plan or target for the new initiative.\n3. Rewrite only the connective tissue -- the one-sentence summary and minimal transitional phrasing -- so the recombined description reads as ONE coherent new initiative built from those components, approximately 500 words, not a patchwork. The problem, the people served, and the solution must fit together.\n4. Keep the source proposals' Markdown headings so the six components remain machine-readable. The child must not be a restatement of either parent.\n\nTreat the parents as the complete factual record and obey these rules:\n{fidelity_rules}\n\nEvery statement about evidence, validation, partnerships, or performance in the child must be framed as proposed, planned, or to-be-tested -- never as an accomplishment inherited from a parent.\n\nRespond with a JSON object: {{\"component_map\": {{\"problem\": \"A\" or \"B\", \"customer\": \"A\" or \"B\", \"solution\": \"A\" or \"B\", \"delivery_model\": \"A\" or \"B\", \"revenue_logic\": \"A\" or \"B\", \"distinctiveness\": \"A\" or \"B\"}}, \"plan\": \"the new initiative description\"}}\nOutput only valid JSON, nothing else.",
+    "evaluator": "You are an expert reviewer of government initiatives, deciding which proposals deserve public investment. Compare the two initiative descriptions below along these criteria:\n{criteria}\n\nGive the most weight to impact on people and to innovation.\n\n--- PROJECT A ---\n{plan_a}\n--- END PROJECT A ---\n\n--- PROJECT B ---\n{plan_b}\n--- END PROJECT B ---\n\nFor each initiative, list its pros and cons as bullet points (use \"\u2022\" as the bullet marker), grounded in the criteria above. Do not reward unsupported specificity: claims of existing pilots, adoption, approvals, partnerships, budgets, or quantified results should improve an initiative's assessment only when they are genuine source facts. Then state which initiative wins overall and why.\n\nRespond with a JSON object: {{\"analysis\": \"your analysis here\", \"winner\": \"A\" or \"B\"}}\nOutput only valid JSON, nothing else.",
+    "factual_fidelity_rules": "Treat the supplied initiative description(s) as the complete factual record. You may propose new services, target groups, delivery channels, funding models, pilots, partnerships, targets, indicators, projections, or plans only when they are explicitly framed as proposed, hypothetical, planned, or to be tested. Do not invent or imply existing pilots, users, beneficiaries, adoption figures, budgets, approvals, legal mandates, endorsements by named ministries, agencies, or officials, signed partnerships, awards, rankings, completed systems, launch status, team credentials, dates, or quantified results. Do not convert a recommendation or aspiration into an accomplished fact. Preserve any factual claims that are carried forward from a source without strengthening them.",
+    "fidelity_auditor": "You are auditing factual fidelity in a generated government initiative proposal.\n\n--- AUTHORIZED SOURCE MATERIAL ---\n{sources}\n--- END AUTHORIZED SOURCE MATERIAL ---\n\n--- GENERATED CANDIDATE ---\n{candidate}\n--- END GENERATED CANDIDATE ---\n\nApply this standard:\n{fidelity_rules}\n\nPass the candidate only if every statement about existing real-world evidence or status is supported by the authorized source material. New ideas are allowed when clearly framed as proposals, plans, targets, hypotheses, or future tests. Unsupported claims include invented pilots, users, beneficiaries, adoption figures, budgets, approvals, legal mandates, endorsements, signed partnerships, awards, completed systems, launch status, team credentials, dates, and quantified results.\n\nApply the tense distinction literally. Specificity does not turn a future proposal into an existing fact. For example, \"we plan to pilot the service in two districts,\" \"the initiative proposes tracking waiting times monthly,\" and \"a future phase would target 5,000 households\" are allowed new ideas even when those targets are absent from the source. Reject only when the candidate states or implies that such evidence, activity, status, or relationship already exists. Do not reject a candidate merely because a proposed plan is new, detailed, or quantified. When every addition is explicitly prospective, the candidate must pass.\n\nDistinguish the initiative's proposed design from claims of accomplished evidence. A proposal's account of what the service is, does, or would offer -- its features, channels, target groups, funding model, or positioning -- is the proposal itself, even when written in present tense, and may legitimately be new relative to the sources, including an initiative assembled from components of multiple source proposals. Do not reject design descriptions for being absent from the sources. Reject only assertions of existing real-world accomplishments or status -- completed systems, running pilots, current users or beneficiaries, approved budgets, signed agreements, endorsements, awards, or measured results -- that the sources do not support.\n\nRespond with a JSON object: {{\"passed\": true or false, \"unsupported_claims\": [\"exact or concise claim\", ...], \"analysis\": \"brief explanation\"}}\nOutput only valid JSON, nothing else.",
+    "generator": "You are an expert government innovation advisor. Below is a proposed government initiative:\n\n--- BEGIN PROJECT ---\n{plan}\n--- END PROJECT ---\n\nEvaluate this initiative along these dimensions:\n{criteria}\n\nSuggest exactly {num_ideas} concrete, actionable improvement ideas that would make this initiative more valuable to the people it serves and more innovative. Each idea should propose a *small, targeted change* (not a complete rewrite). Suggestions must obey these rules:\n{fidelity_rules}\n\nRespond with a JSON object: {{\"ideas\": [\"idea 1\", \"idea 2\", ...]}}\nOutput only valid JSON, nothing else.",
+    "mutator": "You are an expert government innovation advisor. Here is a proposed government initiative:\n\n--- BEGIN PROJECT ---\n{plan}\n--- END PROJECT ---\n\nThe search algorithm selected this component for mutation:\n{component}: {component_guidance}\n\nMake one substantive change to that component only. Preserve the other five components and all source-grounded facts as closely as possible. Keep the existing Markdown headings so that the components remain machine-readable.\n\nRewrite the initiative description incorporating only that one improvement. The updated description should be approximately 500 words and must obey these rules:\n{fidelity_rules}\n\nRespond with a JSON object: {{\"component\": \"{component}\", \"plan\": \"rewritten initiative description\"}}\nOutput only valid JSON, nothing else.",
+    "schema_version": "analysis-06-recombination-v1",
+    "specialized_generator": "You are an expert writer of government initiative proposals. Below is a proposed government initiative followed by one specific improvement idea.\n\n--- BEGIN PROJECT ---\n{plan}\n--- END PROJECT ---\n\n--- IMPROVEMENT IDEA ---\n{idea}\n--- END IDEA ---\n\nRewrite the initiative description incorporating the improvement idea above. Keep the overall structure, Markdown headings, and tone, but integrate the improvement naturally. The updated description should be approximately 500 words and must obey these rules:\n{fidelity_rules}\n\nRespond with a JSON object: {{\"plan\": \"updated initiative description\", \"evidence_notes\": \"brief note identifying any proposed or source-supported claims\"}}\nOutput only valid JSON, nothing else."
+  },
+  "provider": "OpenRouter",
+  "quality_calibration": "none",
+  "quality_scope": "none",
+  "random_seed": 42,
+  "run_id": "gov-run-01",
+  "run_kind": "full",
+  "schema_version": 1,
+  "semantic_novelty": {
+    "backend": "sentence-transformers",
+    "components": [
+      "problem",
+      "customer",
+      "solution",
+      "delivery_model",
+      "revenue_logic",
+      "distinctiveness"
+    ],
+    "construct": "mean component-wise cosine distance from the nearest original seed",
+    "device": "cpu",
+    "model": "BAAI/bge-m3",
+    "revision": "5617a9f61b028005a4858fdac845db406aefb181"
+  },
+  "stages": [
+    {
+      "command": "/usr/local/bin/python3 src/global_search.py --firm-set in/gov-firm-set-15.txt --preset 15 --model deepseek/deepseek-v3.2 --steps 12 --input-file in/gov-ideas.csv --run-prefix gov-run-01 --output-dir out-gov",
+      "elapsed_minutes": 75.07,
+      "environment": {
+        "AI_ENTREP_CALL_CACHE": "out-gov/gov-run-01-call-cache.sqlite3",
+        "AI_ENTREP_MAX_CONCURRENT_CALLS": "40",
+        "PYTHONDONTWRITEBYTECODE": "1"
+      },
+      "expected_outputs": {
+        "candidates": "out-gov/gov-run-01-global-candidates.csv",
+        "csv": "out-gov/gov-run-01-global-search.csv",
+        "fidelity_audits": "out-gov/gov-run-01-global-fidelity-audits.csv",
+        "log": "out-gov/gov-run-01-global-search.log",
+        "matches": "out-gov/gov-run-01-global-matches.csv",
+        "narrative": "out-gov/gov-run-01-global-search-narrative.txt"
+      },
+      "finished_at": "2026-09-24T12:49:36",
+      "name": "global-search",
+      "returncode": 0,
+      "started_at": "2026-09-24T11:34:32",
+      "status": "completed"
+    },
+    {
+      "command": "/usr/local/bin/python3 src/local_search.py --seed-id proactive-benefits --model deepseek/deepseek-v3.2 --steps 12 --input-file in/gov-ideas.csv --run-prefix gov-run-01 --output-dir out-gov",
+      "elapsed_minutes": 10.83,
+      "environment": {
+        "AI_ENTREP_CALL_CACHE": "out-gov/gov-run-01-call-cache.sqlite3",
+        "AI_ENTREP_MAX_CONCURRENT_CALLS": "40",
+        "PYTHONDONTWRITEBYTECODE": "1"
+      },
+      "expected_outputs": {
+        "candidates": "out-gov/gov-run-01-local-candidates.csv",
+        "csv": "out-gov/gov-run-01-local-search.csv",
+        "fidelity_audits": "out-gov/gov-run-01-local-fidelity-audits.csv",
+        "log": "out-gov/gov-run-01-local-search.log",
+        "matches": "out-gov/gov-run-01-local-matches.csv",
+        "narrative": "out-gov/gov-run-01-local-search-narrative.txt"
+      },
+      "finished_at": "2026-09-24T13:00:26",
+      "name": "local-search",
+      "returncode": 0,
+      "started_at": "2026-09-24T12:49:36",
+      "status": "completed"
+    },
+    {
+      "command": "/usr/local/bin/python3 src/semantic_scores.py --input-file in/gov-ideas.csv --firm-set in/gov-firm-set-15.txt --candidate-csv out-gov/gov-run-01-local-candidates.csv --candidate-csv out-gov/gov-run-01-global-candidates.csv --output out-gov/gov-run-01-semantic-scores.csv",
+      "elapsed_minutes": 5.29,
+      "environment": {
+        "AI_ENTREP_CALL_CACHE": "out-gov/gov-run-01-call-cache.sqlite3",
+        "AI_ENTREP_MAX_CONCURRENT_CALLS": "40",
+        "PYTHONDONTWRITEBYTECODE": "1"
+      },
+      "expected_outputs": {
+        "scores": "out-gov/gov-run-01-semantic-scores.csv"
+      },
+      "finished_at": "2026-09-24T13:05:43",
+      "name": "semantic-scores",
+      "returncode": 0,
+      "started_at": "2026-09-24T13:00:26",
+      "status": "completed"
+    }
+  ],
+  "status": "completed",
+  "steps": 12,
+  "working_directory": "/home/user/conceptual-search"
+}
