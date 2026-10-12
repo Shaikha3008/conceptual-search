@@ -1,0 +1,10 @@
+AI_ENTREP_DOMAIN=government AI_ENTREP_SEED_PROJECT_ID=clean-road-transport python3 src/polish_population.py --run-id air-run-01 --model deepseek/deepseek-v3.2 --steps 12 \
+  --per-run-concurrency 8 --top 5 --out-dir out-air --seeds-file in/air-polish-seeds.csv
+extract: wrote air-polish-seeds.csv and air-run-01-polish-map.csv
+g12-s00: done
+g12-s05: done
+g12-s14: done
+g12-s01: done
+g12-s08: done
+collect: wrote air-run-01-polish-entrants.csv with 10 entrants
+exit code: 0

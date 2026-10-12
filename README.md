@@ -56,6 +56,7 @@ A machine-readable citation is in `CITATION.cff`.
 | `figs/` | The four figures (PDF and PNG) and two tables (LaTeX) of the paper's empirical section, as rebuilt from `out/`. |
 | `robustness1-gemma3-4b/`, `robustness2-qwen2.5-72b/` | The two cross-evaluator robustness checks: code, frozen inputs, and every provider response. |
 | `Makefile` | One target per stage; `make help` lists them. |
+| `AIR.md` | An air-pollution experiment on the government setup: the model writes 15 UAE initiatives, which are searched, polished and placed among 30 real initiatives from around the world (`in/air-*`, `out-air/`). |
 | `GOVERNMENT.md` | An adaptation to government initiatives: 15 example ideas (`in/gov-ideas.csv`), government prompts (`src/government_prompts.py`), and `make gov-*` commands. |
 
 ## The method in brief
