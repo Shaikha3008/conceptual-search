@@ -27,6 +27,10 @@ from pathlib import Path
 csv.field_size_limit(10**9)
 
 HERE = Path(__file__).resolve().parent.parent
+# Overridable with --out-dir / --seeds-file so that other searches (for
+# example the government runs in out-gov/) never overwrite the paper's files.
+OUT_DIR = HERE / "out"
+SEEDS_PATH = HERE / "in" / "polish-seeds.csv"
 
 
 def parse_args() -> argparse.Namespace:
@@ -38,6 +42,14 @@ def parse_args() -> argparse.Namespace:
     ap.add_argument("--phase", choices=("extract", "run", "collect", "all"),
                     default="all")
     ap.add_argument("--mock", action="store_true")
+    ap.add_argument("--out-dir", default=None,
+                    help="Folder holding the run's records (default: out/).")
+    ap.add_argument("--top", type=int, default=None,
+                    help="Polish only the N best-ranked final-generation "
+                         "concepts (default: all 15).")
+    ap.add_argument("--seeds-file", default=None,
+                    help="Where to write the final-generation seeds "
+                         "(default: in/polish-seeds.csv).")
     return ap.parse_args()
 
 
@@ -45,21 +57,23 @@ def seed_id(slot: int) -> str:
     return f"g12-s{slot:02d}"
 
 
-def extract(run_id: str) -> list[dict]:
-    src = HERE / "out" / f"{run_id}-global-candidates.csv"
+def extract(run_id: str, top: int | None = None) -> list[dict]:
+    src = OUT_DIR / f"{run_id}-global-candidates.csv"
     rows = [r for r in csv.DictReader(open(src, newline="", encoding="utf-8"))
             if r["step"] == "12"]
     assert len(rows) == 15, f"expected 15 step-12 rows, got {len(rows)}"
+    if top is not None:
+        rows = sorted(rows, key=lambda r: int(r["rank"]))[:top]
     rows.sort(key=lambda r: int(r["slot"]))
 
-    seeds_path = HERE / "in" / "polish-seeds.csv"
+    seeds_path = SEEDS_PATH
     with open(seeds_path, "w", newline="", encoding="utf-8") as f:
         w = csv.DictWriter(f, fieldnames=["id", "description"], quoting=csv.QUOTE_ALL)
         w.writeheader()
         for r in rows:
             w.writerow({"id": seed_id(int(r["slot"])), "description": r["plan_text"]})
 
-    map_path = HERE / "out" / f"{run_id}-polish-map.csv"
+    map_path = OUT_DIR / f"{run_id}-polish-map.csv"
     with open(map_path, "w", newline="", encoding="utf-8") as f:
         w = csv.DictWriter(f, fieldnames=[
             "seed_id", "slot", "rank", "win_rate", "origin", "root_lineage",
@@ -80,22 +94,22 @@ def run_one(run_id: str, slot: int, steps: int, concurrency: int,
             model: str, mock: bool) -> tuple[int, int]:
     sid = seed_id(slot)
     prefix = f"{run_id}-polish-s{slot:02d}"
-    marker = HERE / "out" / f"{prefix}-local-search-narrative.txt"
+    marker = OUT_DIR / f"{prefix}-local-search-narrative.txt"
     if marker.exists():
         print(f"{sid}: already complete, skipping")
         return slot, 0
     env = dict(os.environ)
     env["AI_ENTREP_MAX_CONCURRENT_CALLS"] = str(concurrency)
-    env["AI_ENTREP_CALL_CACHE"] = str(HERE / "out" / f"{prefix}-call-cache.sqlite3")
+    env["AI_ENTREP_CALL_CACHE"] = str(OUT_DIR / f"{prefix}-call-cache.sqlite3")
     if mock:
         env["AI_ENTREP_MOCK_LLM"] = "1"
     cmd = [sys.executable, str(HERE / "src" / "local_search.py"),
            "--seed-id", sid,
-           "--input-file", str(HERE / "in" / "polish-seeds.csv"),
+           "--input-file", str(SEEDS_PATH),
            "--model", model,
            "--steps", str(steps),
            "--run-prefix", prefix,
-           "--output-dir", str(HERE / "out")]
+           "--output-dir", str(OUT_DIR)]
     proc = subprocess.run(cmd, env=env, cwd=str(HERE),
                           capture_output=True, text=True)
     if proc.returncode != 0:
@@ -105,13 +119,19 @@ def run_one(run_id: str, slot: int, steps: int, concurrency: int,
     return slot, proc.returncode
 
 
+def polish_slots() -> list[int]:
+    """Slots listed in the seeds file written by `extract`."""
+    with open(SEEDS_PATH, newline="", encoding="utf-8") as f:
+        return [int(row["id"].rsplit("s", 1)[1]) for row in csv.DictReader(f)]
+
+
 def collect(run_id: str) -> None:
-    map_path = HERE / "out" / f"{run_id}-polish-map.csv"
+    map_path = OUT_DIR / f"{run_id}-polish-map.csv"
     parents = list(csv.DictReader(open(map_path, newline="", encoding="utf-8")))
     seeds = {r["id"]: r["description"] for r in csv.DictReader(
-        open(HERE / "in" / "polish-seeds.csv", newline="", encoding="utf-8"))}
+        open(SEEDS_PATH, newline="", encoding="utf-8"))}
 
-    entrants_path = HERE / "out" / f"{run_id}-polish-entrants.csv"
+    entrants_path = OUT_DIR / f"{run_id}-polish-entrants.csv"
     with open(entrants_path, "w", newline="", encoding="utf-8") as f:
         w = csv.DictWriter(f, fieldnames=["id", "kind", "plan_text"],
                            quoting=csv.QUOTE_ALL)
@@ -120,7 +140,7 @@ def collect(run_id: str) -> None:
             sid = p["seed_id"]
             w.writerow({"id": f"{sid}-parent (step-12 rank {p['rank']})",
                         "kind": "g12-parent", "plan_text": seeds[sid]})
-            cand = HERE / "out" / f"{run_id}-polish-{sid.replace('g12-', '')}-local-candidates.csv"
+            cand = OUT_DIR / f"{run_id}-polish-{sid.replace('g12-', '')}-local-candidates.csv"
             last = None
             for row in csv.DictReader(open(cand, newline="", encoding="utf-8")):
                 if row["selected"] == "True":
@@ -133,16 +153,21 @@ def collect(run_id: str) -> None:
 
 
 def main() -> None:
+    global OUT_DIR, SEEDS_PATH
     args = parse_args()
+    if args.out_dir:
+        OUT_DIR = (HERE / args.out_dir).resolve()
+    if args.seeds_file:
+        SEEDS_PATH = (HERE / args.seeds_file).resolve()
     if args.phase in ("extract", "all"):
-        extract(args.run_id)
+        extract(args.run_id, args.top)
     if args.phase in ("run", "all"):
         with ThreadPoolExecutor(max_workers=15) as pool:
             results = list(pool.map(
                 lambda slot: run_one(args.run_id, slot, args.steps,
                                      args.per_run_concurrency, args.model,
                                      args.mock),
-                range(15)))
+                polish_slots()))
         failures = [s for s, rc in results if rc != 0]
         if failures:
             raise SystemExit(f"polish runs failed for slots: {failures} "

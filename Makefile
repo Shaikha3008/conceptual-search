@@ -1,7 +1,7 @@
 .PHONY: help install check dry-run mock-smoke estimate-full check-live \
         run-full run-polish run-baseline run-baseline-entrants run-universe-scoring \
         run-championship run-baseline-championship run-semantic figures robustness-tests \
-        gov-mock gov-one gov-full
+        gov-mock gov-one gov-full air-seeds air-search air-polish air-championship air-mock
 
 # Run id of the searches reported in the paper.  Set RUN_ID=... to reproduce
 # the pipeline under a new id.
@@ -41,6 +41,13 @@ help:
 	  '  make gov-mock    Free offline test with fake AI answers' \
 	  '  make gov-one     Improve ONE idea step by step (paid, cheap). GOV_IDEA=<id> picks the idea' \
 	  '  make gov-full    Improve, mix, and rank all 15 ideas (paid)' \
+	  '' \
+	  'Air-pollution experiment (AIR.md; results go to out-air/):' \
+	  '  make air-mock          Every stage offline with fake AI answers' \
+	  '  make air-seeds         The model writes 15 UAE initiatives (paid, small)' \
+	  '  make air-search        12 rounds of search over them (paid)' \
+	  '  make air-polish        Polish the best AIR_POLISH_TOP finalists (paid)' \
+	  '  make air-championship  Finalists vs 30 real global initiatives (paid)' \
 	  '' \
 	  'The README documents every stage, its outputs, and the numbers it supports.'
 
@@ -150,3 +157,54 @@ gov-full: check-live
 	$(GOV_ENV) $(PYTHON) src/run_pipeline.py --input-file $(GOV_INPUT) --firm-set $(GOV_SET) \
 	  --model $(MODEL) --steps $(GOV_STEPS) --run-id $(GOV_RUN_ID) --run-kind full \
 	  --quality-calibration none --output-dir $(GOV_OUT) --max-concurrent-calls 40
+
+# --- Air-pollution experiment ------------------------------------------------
+# The model writes 15 UAE initiatives (in/air-ideas.csv, one per lever in
+# in/air-levers.txt, fact-checked against in/air-uae-brief.md), the usual
+# search runs over them, the best finalists are polished, and a final
+# tournament places them among 30 real air-pollution initiatives from around
+# the world (in/air-reference-30.csv).  AIR.md explains it.
+AIR_RUN_ID ?= air-run-01
+AIR_OUT ?= out-air
+AIR_SEED := clean-road-transport
+AIR_POLISH_TOP ?= 5
+AIR_ENV := AI_ENTREP_DOMAIN=government AI_ENTREP_SEED_PROJECT_ID=$(AIR_SEED)
+
+air-seeds: check-live
+	mkdir -p $(AIR_OUT)
+	$(AIR_ENV) AI_ENTREP_CALL_CACHE=$(AIR_OUT)/$(AIR_RUN_ID)-call-cache.sqlite3 \
+	$(PYTHON) src/generate_seeds.py --topic "air pollution" --place "the United Arab Emirates" \
+	  --brief in/air-uae-brief.md --levers in/air-levers.txt --model $(MODEL) \
+	  --output in/air-ideas.csv --firm-set in/air-firm-set-15.txt
+
+air-search: check-live
+	$(AIR_ENV) $(PYTHON) src/run_pipeline.py --input-file in/air-ideas.csv --firm-set in/air-firm-set-15.txt \
+	  --model $(MODEL) --steps $(STEPS) --run-id $(AIR_RUN_ID) --run-kind full \
+	  --quality-calibration none --output-dir $(AIR_OUT) --max-concurrent-calls 40
+
+air-polish: check-live
+	$(AIR_ENV) $(PYTHON) src/polish_population.py --run-id $(AIR_RUN_ID) --model $(MODEL) --steps $(STEPS) \
+	  --per-run-concurrency 8 --top $(AIR_POLISH_TOP) --out-dir $(AIR_OUT) --seeds-file in/air-polish-seeds.csv
+
+air-championship: check-live
+	$(AIR_ENV) AI_ENTREP_CALL_CACHE=$(AIR_OUT)/$(AIR_RUN_ID)-call-cache.sqlite3 AI_ENTREP_MAX_CONCURRENT_CALLS=40 \
+	$(PYTHON) src/championship.py --input-file in/air-reference-30.csv \
+	  --commit-round $(AIR_OUT)/$(AIR_RUN_ID)-commit-round.csv \
+	  --local-candidates $(AIR_OUT)/$(AIR_RUN_ID)-local-candidates.csv --model $(MODEL) \
+	  --run-prefix $(AIR_RUN_ID) --output-dir $(AIR_OUT) --entrants-csv $(AIR_OUT)/$(AIR_RUN_ID)-polish-entrants.csv
+
+# All four stages offline, in a scratch folder, with fake AI answers.
+air-mock:
+	rm -rf out-air-mock && mkdir -p out-air-mock
+	$(AIR_ENV) AI_ENTREP_MOCK_LLM=1 $(PYTHON) src/generate_seeds.py --topic "air pollution" \
+	  --place "the United Arab Emirates" --brief in/air-uae-brief.md --levers in/air-levers.txt \
+	  --output out-air-mock/ideas.csv --firm-set out-air-mock/firm-set.txt
+	$(AIR_ENV) $(PYTHON) src/run_pipeline.py --input-file out-air-mock/ideas.csv --firm-set out-air-mock/firm-set.txt \
+	  --model $(MODEL) --steps 12 --run-id mock --run-kind smoke --quality-calibration none \
+	  --output-dir out-air-mock --max-concurrent-calls 20 --mock --force
+	$(AIR_ENV) $(PYTHON) src/polish_population.py --run-id mock --steps 1 --top 2 --mock \
+	  --out-dir out-air-mock --seeds-file out-air-mock/polish-seeds.csv
+	$(AIR_ENV) AI_ENTREP_MOCK_LLM=1 AI_ENTREP_CALL_CACHE= $(PYTHON) src/championship.py \
+	  --input-file in/air-reference-30.csv --commit-round out-air-mock/mock-commit-round.csv \
+	  --local-candidates out-air-mock/mock-local-candidates.csv --run-prefix mock \
+	  --output-dir out-air-mock --entrants-csv out-air-mock/mock-polish-entrants.csv

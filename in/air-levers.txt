@@ -1,0 +1,18 @@
+# One starting idea per line for the air-pollution search: id | the lever it
+# must work through.  src/generate_seeds.py asks the model to write one UAE
+# initiative per line.  The first id is the local-search seed.
+clean-road-transport | cleaner road vehicles: emission standards, low- or zero-emission zones and the shift to electric cars and taxis
+public-transport-shift | moving trips from private cars to public transport, walking and cycling
+freight-logistics | trucks, delivery fleets and freight logistics
+ports-shipping | ports and ships: fuels, shore power and harbour-craft emissions
+aviation-ground | airports and aviation ground operations
+power-desalination | power and water desalination plants
+heavy-industry | heavy industry such as cement, aluminium, steel and petrochemicals
+oil-gas-operations | oil and gas operations: flaring, venting and leaks of pollutants
+construction-dust | dust from construction and demolition sites and unpaved surfaces
+sandstorm-resilience | natural dust and sandstorms: land stabilisation, greening and dust forecasting
+indoor-air | indoor air in homes, schools and offices, including air-conditioning filtration
+monitoring-alerts | air-quality monitoring, open data and public alerts
+vulnerable-groups | protecting vulnerable groups such as children, older people, people with asthma and outdoor workers
+urban-greening | urban design and greening to reduce exposure, heat and ozone formation
+economic-instruments | economic instruments such as pricing, incentives, levies or emissions trading

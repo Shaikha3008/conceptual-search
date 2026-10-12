@@ -149,6 +149,34 @@ Focus on the key differences in content, emphasis, or strategy. \
 Output only the summary, nothing else."""
 
 
+# --- Starting ideas written by the model (src/generate_seeds.py) -------------
+
+SEED_GENERATOR_PROMPT = """\
+You are an expert government policy designer. Write ONE new proposed \
+initiative to reduce {topic} in {place}.
+
+The initiative must work mainly through this lever:
+{lever}
+
+The only facts you may state about {place} are in this context brief:
+
+--- CONTEXT BRIEF ---
+{brief}
+--- END CONTEXT BRIEF ---
+
+Write the initiative as a proposal of approximately 500 words, in Markdown, \
+with exactly these headings in this order: \
+"## One-Sentence Summary", "## Problem", "## Target Beneficiaries & Use Cases", \
+"## Solution / Service Overview", "## Delivery Model", "## Funding & Sustainability", \
+"## What Makes It New", "## Measuring Impact", "## Risks & Mitigation".
+
+Be concrete and realistic for {place}. The text must obey these rules:
+{fidelity_rules}
+
+Respond with a JSON object: {{"title": "short name of the initiative", "plan": "the initiative description"}}
+Output only valid JSON, nothing else."""
+
+
 # --- Global search (mutation and crossover) ---------------------------------
 
 MUTATION_COMPONENT_GUIDANCE = {
