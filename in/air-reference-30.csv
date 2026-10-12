@@ -1,0 +1,1071 @@
+"id","name","place","start_year","sector","sources","description"
+"london-ulez","London Ultra Low Emission Zone (ULEZ)","London, United Kingdom","2019","transport","https://www.london.gov.uk/new-report-reveals-transformational-impact-expanded-ultra-low-emission-zone-so-far | https://www.imperial.ac.uk/news/231894/london-pollution-improved-with-evidence-small/ | https://www.localgovernmentlawyer.co.uk/litigation-and-enforcement/400-litigation-news/54618-high-court-dismisses-council-challenge-over-ulez-expansion-in-london | https://www.cargurus.co.uk/Cars/articles/ulez_explained","## One-Sentence Summary
+
+London's Ultra Low Emission Zone (ULEZ) is a daily charge, enforced by number-plate cameras, on vehicles that do not meet minimum exhaust standards; it started in central London in 2019 and was extended to all of Greater London in 2023.
+
+## Problem
+
+London had long breached legal limits for nitrogen dioxide (NO2), largely from road traffic. City Hall estimated about 4,000 premature deaths a year from toxic air, over half in outer London.
+
+## Target Beneficiaries & Use Cases
+
+Residents, workers and visitors exposed to traffic pollution, especially near busy roads. It applies to drivers of cars, vans, motorcycles and heavier vehicles; disabled and low-income residents received grace periods or scrappage support.
+
+## Solution / Service Overview
+
+Transport for London (TfL), under the Mayor of London, launched the ULEZ on 8 April 2019 in the same central area as the Congestion Charge. It was extended to inner London in October 2021 and to every London borough on 29 August 2023. It operates 24 hours a day, every day except Christmas Day. Petrol cars must meet Euro 4 and diesel cars Euro 6. Drivers of non-compliant cars and smaller vans pay £12.50 a day. Unpaid charges lead to a £160 penalty, reduced to £80 if paid quickly.
+
+## Delivery Model
+
+TfL enforces it with automatic number plate recognition cameras checked against registration records; drivers pay online. Expansions were made by amending the existing road-user charging order.
+
+## Funding & Sustainability
+
+TfL collects charges and penalties. The Mayor funded scrappage schemes: £61 million from 2019, then £110 million before the London-wide expansion, offering up to £2,000 (or bus and tram passes) to eligible Londoners on benefits and up to £9,500 for vans and minibuses of charities and small businesses. Charge income falls as compliance rises.
+
+## What Makes It New
+
+The ULEZ was an early example of a 24-hour, emissions-based charge on private cars as well as commercial vehicles. It expanded in announced stages to cover a whole metropolitan region.
+
+## Measuring Impact
+
+City Hall's February 2023 report, peer reviewed by an Imperial College London air-quality scientist, estimated that NO2 was 46% lower in central London and 21% lower in inner London than it would have been without the ULEZ. The same report found that 94.4% of vehicles in the zone were compliant in October 2022, up from 39% in 2017. These are modelled estimates. An independent Imperial College study, published in November 2021, found a much smaller short-term effect. In the 12 weeks around the 2019 launch, NO2 fell by less than 3% on average, and the effects on ozone and PM2.5 were insignificant. Its authors concluded that a ULEZ alone is not an effective strategy and works best alongside wider measures.
+
+## Risks & Mitigation
+
+The outer London expansion was contested. Four boroughs and Surrey County Council brought a judicial review, challenging the legal basis, the consultation and the scrappage grant decision. In July 2023 the High Court dismissed the claim on all three grounds, finding the consultation ""not in-depth"" but lawful. The charge falls hardest on lower-income owners of older vehicles, which scrappage grants and grace periods were meant to soften. Isolating its effect is difficult because bus upgrades and national standards changed simultaneously.
+"
+"stockholm-congestion-tax","Stockholm Congestion Tax","Stockholm, Sweden","2006","transport","https://www.progress.org/wiki/eliasson-stockholm-trial-2006/ | https://www.nber.org/bah/2018no2/health-benefits-congestion-pricing | https://www.transportstyrelsen.se/en/road/vehicles/taxes-and-fees/road-tolls/congestion-taxes-in-stockholm-and-gothenburg/congestion-tax-in-stockholm/hours-and-amounts-in-stockholm/ | https://en.wikipedia.org/wiki/Stockholm_congestion_tax","## One-Sentence Summary
+
+Stockholm's congestion tax charges vehicles each time they cross into or out of the inner city on weekdays, at rates that vary by time of day; it was tested in a full-scale trial in 2006 and made permanent in 2007.
+
+## Problem
+
+Roads and bridges into central Stockholm were heavily congested, with long peak queues and associated exhaust emissions. The main aim was to reduce congestion, with lower emissions and better urban air as further aims.
+
+## Target Beneficiaries & Use Cases
+
+Drivers of most vehicles passing control points around the inner city and, since 2016, on the Essingeleden bypass. Beneficiaries include transit users, central residents and drivers wanting reliable journeys.
+
+## Solution / Service Overview
+
+A full-scale trial ran from 3 January to 31 July 2006. In a referendum on 17 September 2006, voters in the City of Stockholm backed the charge by 53.0% to 47.0%, while voters in the surrounding municipalities mostly rejected it. The national parliament approved a permanent tax in June 2007, and charging resumed in August 2007. The tax applies on weekdays between 06:00 and 18:29. Weekends, public holidays and most of July are free. In 2016 the peak charge rose from 20 to 35 kronor, and a daily cap of 105 kronor was set. In 2026 the peak passage cost 45 kronor in high season, with a daily maximum of 135 kronor.
+
+## Delivery Model
+
+It is a national tax, not a municipal fee. Unmanned gantries use automatic number plate recognition, so drivers do not stop, and owners receive a monthly bill. Emergency vehicles, large buses, motorcycles, diplomatic and military vehicles, and disability-permit cars are exempt.
+
+## Funding & Sustainability
+
+The trial evaluation estimated investment costs of about 1.9 billion kronor and a net annual social benefit of about 650 million kronor, a social payback of about four years. The trial raised 399 million kronor. The revenue was linked to road investment around Stockholm, and the 2016 increase was partly intended to help pay for extending the metro.
+
+## What Makes It New
+
+Stockholm put cordon pricing to a real-world trial before asking voters to decide on it. Public opinion shifted during the trial from a large majority against to a small majority in favour.
+
+## Measuring Impact
+
+During the trial, traffic across the cordon fell by about 22% in charged hours compared with the previous year, beating the 10–15% target. Queuing delays fell by about a third in the morning peak and by about half in the evening peak. Carbon dioxide from inner-city traffic was estimated to fall by about 14%. A later econometric study, published in 2021, found that PM10 and NO2 in the zone fell by 5–20% relative to other areas. It also found a drop in acute asthma among children under six of 8.7 cases per 10,000 children, almost half the baseline rate. The trial evaluation had no experimental control group.
+
+## Risks & Mitigation
+
+Most residents initially opposed the charge, and county-wide voters rejected it. During the trial, exemptions meant almost 30% of crossings were free, which weakened the effect. Number-plate recognition has sometimes confused Swedish plates with similar foreign plates, and stolen or forged plates have caused wrongful charges. Foreign vehicles were exempt until 2014.
+"
+"mexico-city-hoy-no-circula","Hoy No Circula driving restriction (with ProAire context)","Mexico City Metropolitan Area, Mexico","1989","transport","https://faculty.haas.berkeley.edu/ldavis/Davis%20JPE%202008.pdf | https://ssir.org/articles/entry/a_lot_of_hot_air | https://econpapers.repec.org/RePEc:ioe:doctra:407 | https://en.wikipedia.org/wiki/Hoy_No_Circula | https://breathelife2030.org/news/mexico-citys-25-year-journey-better-air-raises-life-expectancy-saves-lives/ | https://www.c40.org/?p=1483","## One-Sentence Summary
+
+Hoy No Circula (""No Driving Today"") has banned most private and commercial vehicles in the Mexico City metropolitan area from being driven on one weekday a week since November 1989, based on the last digit of the licence plate; it was later linked to emissions-test stickers and to the city's wider ProAire air-quality programmes.
+
+## Problem
+
+In the late 1980s Mexico City recorded record ozone levels, and in 1992 the United Nations described it as the most polluted city on the planet. A federal report attributed 99% of carbon monoxide, 81% of nitrogen oxides and 46% of volatile organic compounds in the city's air to vehicles.
+
+## Target Beneficiaries & Use Cases
+
+The whole metropolitan population, through reduced vehicle use. It applies to private cars and most commercial vehicles registered in or entering the area.
+
+## Solution / Service Overview
+
+The Mexico City government introduced it on 20 November 1989 for the winter inversion season and made it permanent in 1990. Vehicles may not be driven on their assigned weekday between 5 a.m. and 10 p.m.; for example, plates ending in 5 or 6 are banned on Mondays. At launch it covered 2.3 million vehicles (about 460,000 daily). Taxis, buses, emergency vehicles and some commercial vehicles were exempt. Changes in 1997 and 2004 exempted cleaner vehicles: six-monthly emissions tests assign stickers, and ""0"" or ""00"" stickers, available only to vehicles under nine years old, are exempt. A one-Saturday-a-month restriction for older vehicles began on 5 July 2008.
+
+## Delivery Model
+
+City police enforce the ban, easily checked from visible plates, with fines and impoundment. Exemption status depends on passing mandatory emissions testing, and unpaid vehicle ownership tax blocks a vehicle from being tested.
+
+## Funding & Sustainability
+
+The restriction has no dedicated budget; it relies on police enforcement and the emissions testing system, and has been adjusted repeatedly over three decades.
+
+## What Makes It New
+
+It was among the first large, permanent licence-plate bans, later copied in Bogotá, Santiago and São Paulo. Linking it to emissions tests turned a simple rotation into a reward for cleaner vehicles.
+
+## Measuring Impact
+
+Evidence for the original design is weak. A 2008 peer-reviewed study of hourly monitoring data for several pollutants found no evidence that the restrictions improved air quality. Gasoline sales did not fall and subway ridership did not rise. Other data pointed to more, and older, vehicles on the road. A 2013 study found a short-run response followed by a rapid increase in vehicle ownership within about 11 months. Air quality did improve substantially over later decades. This is generally credited to the broader ProAire programmes, which included vehicle emissions testing, compulsory catalytic converters in new cars, lower-sulphur diesel and natural gas buses. One estimate puts the fall in fine particles since 1990 at 57%, and a study covering 1990–2015 estimated 22,500 to 28,000 lives saved. However, PM2.5 remains about double the WHO guideline.
+
+## Risks & Mitigation
+
+The main documented side effect was households buying second, often older and dirtier, cars to get around the ban. During a 2016 ozone emergency the city temporarily widened restrictions to keep up to 2 million cars off the road daily. Sticker-based exemptions aimed to target older, dirtier vehicles; the evaluations above mainly cover the original design.
+"
+"delhi-cng-public-transport","Delhi conversion of public transport to compressed natural gas (CNG)","Delhi, India","1998","transport","https://www.rff.org/publications/working-papers/the-impact-of-delhi039s-cng-program-on-air-quality/ | https://cdn.cseindia.org/epca/EPCA-Reports1999-1917/Report-no.34.pdf | https://www.csmonitor.com/layout/set/amphtml/2001/0404/p7s1.html","## One-Sentence Summary
+
+Following a 1998 Supreme Court order, Delhi switched its entire bus fleet, and its auto-rickshaws and taxis, from diesel and petrol to compressed natural gas (CNG), completing the bus conversion by the end of 2002.
+
+## Problem
+
+Delhi's severe air pollution, to which diesel buses and other commercial vehicles contributed heavily, had been before the Supreme Court since a public interest petition filed in 1985. The bus fleet was also too small, pushing people towards private vehicles.
+
+## Target Beneficiaries & Use Cases
+
+Delhi residents exposed to vehicle exhaust. It applied to public and private bus operators, auto-rickshaw and taxi drivers, and their passengers.
+
+## Solution / Service Overview
+
+It arose from a long-running public interest case on Delhi air pollution. On 28 July 1998 the Supreme Court directed the Delhi government to move commercial passenger transport to CNG. It also ordered the city to expand the bus fleet from about 3,500 in the mid-1990s to 10,000 by 2001, with those buses running on CNG. The deadline for the bus fleet was 1 April 2001, and auto-rickshaws and taxis were also required to convert. Conversion of the bus fleet was completed by the end of 2002.
+
+## Delivery Model
+
+Implementation was driven by the judiciary. The court-appointed Environment Pollution (Prevention and Control) Authority monitored progress and reported back to the Court. Public and private operators had to buy new or converted vehicles, and a city gas distributor expanded CNG filling stations.
+
+## Funding & Sustainability
+
+Operators largely bore conversion costs; the city government was responsible for fuelling and fleet expansion. By 2007 the monitoring authority reported the 10,000-bus target still unmet, putting the city in breach.
+
+## What Makes It New
+
+It was one of the largest rapid switches of a city's public transport fleet to a cleaner fuel, imposed by a court on a citizen's petition rather than through ordinary policy-making.
+
+## Measuring Impact
+
+A Resources for the Future working paper using monthly data from 1990 to 2005 found that converting buses from diesel to CNG reduced PM10, carbon monoxide and sulphur dioxide. Contrary to what many expected, it did not cause the rise in NO2. Converting three-wheelers brought smaller benefits, possibly due to poor technology. Lower-sulphur fuels also cut sulphur dioxide and PM10. The same study found that some of these gains were being lost because more cars were diesel and the number of vehicles kept growing. In 2007 the monitoring authority reported that Delhi had more than four million registered vehicles and was adding about 963 private vehicles a day. almost double the 2000–01 rate, and warned this was undoing the gains.
+
+## Risks & Mitigation
+
+The changeover was disruptive: when the April 2001 deadline passed with only about a fifth of buses compliant, most of the city's roughly 15,000 buses, along with about 20,000 auto-rickshaws and 50,000 taxis, were reported to be off the road. The city had only 68 CNG stations, which led to long queues, low gas pressure and violent protests. In 2005 the Court directed the government to build a high-capacity bus system as part of a wider transport plan. The monitoring authority argued that cleaner fuel alone could not offset the growth in private vehicles.
+"
+"madrid-central-lez","Madrid Central low emission zone","Madrid, Spain","2018","transport","https://thenextweb.com/news/madrids-low-emissions-zone-scrapped | https://arxiv.org/pdf/2012.13782 | https://ideas.repec.org/p/dem/wpaper/wp-2023-048.html","## One-Sentence Summary
+
+Madrid Central was a low emission and restricted-traffic zone covering about 472 hectares of Madrid's historic centre; it barred older, more polluting non-resident vehicles from late 2018 until courts annulled it on procedural grounds in 2020–2021.
+
+## Problem
+
+Madrid regularly exceeded European nitrogen dioxide limits, largely from traffic. At the central Plaza del Carmen monitoring station, annual average NO2 between 2010 and 2018 ranged from about 40 to 52 micrograms per cubic metre. Those levels were at or above the 40-microgram annual limit.
+
+## Target Beneficiaries & Use Cases
+
+Residents, workers, students and visitors in the centre. It applied to drivers entering the area; residents and their visitors, public transport, electric vehicles and some delivery vehicles had permits or exemptions.
+
+## Solution / Service Overview
+
+Madrid City Council introduced Madrid Central in November 2018 by enlarging an earlier, smaller restricted area. Non-resident petrol vehicles registered before 2000 and diesel vehicles registered before 2008 were not allowed to enter. During the first quarter of 2019 the council recorded violations but did not fine them, and the zone was fully enforced from the second quarter of 2019.
+
+## Delivery Model
+
+The council ran the scheme under its sustainable mobility ordinance. Enforcement used 115 cameras that read licence plates. Drivers who entered without authorisation were fined €90.
+
+## Funding & Sustainability
+
+The zone was a regulatory measure enforced by cameras and fines rather than a spending programme, so its survival depended on politics and the courts. The mayor's office suspended the zone in July 2019, but a court reinstated it about a week later. In July 2020 the Madrid High Court annulled the zone on procedural grounds. In May 2021 Spain's Supreme Court rejected an appeal by an environmental group, leaving the annulment in place.
+
+## What Makes It New
+
+It combined vehicle-age restrictions with resident permits in a dense historic centre, and became an early test of whether a low emission zone could survive a change of city government.
+
+## Measuring Impact
+
+Early results were positive but short-term. Press reports cited a 38% fall in nitrogen oxide emissions in the centre in the first month. A January 2020 report by an environmental group found lower NO2 at 22 of 24 monitoring stations compared with the previous nine-year average. Figures cited in an evaluation paper put the 2019 annual mean at the Plaza del Carmen station at 36 micrograms, 22% below the 2010–2018 average. That paper's own statistical analysis found clear reductions in the second and fourth quarters of 2019 and only minor ones in the first and third. Weather, especially rainfall, complicated comparisons. A working paper using a difference-in-differences design reported better air quality over the four years after the zone began, positive spillovers to nearby areas, and a 0.17 standard deviation rise in university entrance exam scores at high schools inside the zone.
+
+## Risks & Mitigation
+
+The main weakness was legal and political. Annulment on procedural grounds showed a working zone can be lost through drafting flaws. Opponents feared business losses and traffic displacement to the zone's edge. Analyses of nearby monitoring stations did not find a clear worsening outside the zone. After the final ruling, city officials said a new low emission zone plan would follow.
+"
+"shenzhen-electric-bus-fleet","Shenzhen fully electric public bus fleet","Shenzhen, China","2009","transport","https://www.wri.org/insights/how-did-shenzhen-china-build-worlds-largest-electric-bus-fleet | https://techxplore.com/news/2023-10-china-electric-bus-revolution-glides.pdf | https://www.c40.org/?p=27161","## One-Sentence Summary
+
+Shenzhen replaced its entire public bus fleet of 16,359 vehicles with battery-electric buses by the end of 2017, building on a national pilot for new energy vehicles that began in 2009.
+
+## Problem
+
+Diesel buses made up only about 0.5% of Shenzhen's vehicles but, because they cover long distances, they produced around 20% of its transport emissions. Pollution in Chinese cities was a major reason the central government made electric public transport a priority.
+
+## Target Beneficiaries & Use Cases
+
+Bus passengers, drivers and people along bus routes exposed to exhaust and noise; bus operators were the direct users.
+
+## Solution / Service Overview
+
+In 2009 the central government approved Shenzhen as a pilot city for new energy vehicles. The city decided to electrify public transport first, starting with buses and taxis. By December 2013 Shenzhen had about 3,050 mainly electric buses, around 20% of its fleet, and 850 electric taxis. At the end of 2017 the city announced that all 16,359 of its buses were electric, the first fully electric bus fleet of this size anywhere. Buses charge fully overnight, when electricity is cheapest, and top up at terminals. A five-hour charge supports about 250 kilometres of driving, which is close to a full day's service.
+
+## Delivery Model
+
+The transition was government-led. The largest operator, Shenzhen Bus Group, worked closely with the manufacturer BYD. Some operators leased buses from manufacturers instead of buying them, which reduced upfront spending and the need to borrow. Most routes received chargers, about one outlet per three buses, also open to private cars to improve their finances. Operators required manufacturers to give lifetime warranties on vehicles and batteries.
+
+## Funding & Sustainability
+
+Electric buses cost two to four times more upfront than diesel, and a battery replacement, needed at least once, costs nearly half the vehicle price. Before 2016 a 12-metre electric bus received government subsidies of about US$150,000, more than half its price. In 2016 the estimated eight-year lifecycle cost was US$375,457 for an electric bus and US$342,855 for a diesel bus, a much narrower gap.
+
+## What Makes It New
+
+Shenzhen was the first large city to electrify its whole bus fleet, combining subsidies, leasing, route-by-route charging plans and transferring battery risk to manufacturers.
+
+## Measuring Impact
+
+Measured results mostly concern carbon dioxide, not local pollutants. A World Bank case study of Shenzhen Bus Group estimated that an electric bus's emissions over its service life were about 52% of a diesel bus's. It estimated savings of about 194,000 tonnes of carbon dioxide a year, even though about half of local electricity came from coal. Shenzhen met its air-quality goals in 2016 and 2017, but the sources reviewed do not separate the buses' effect on local pollutants from other measures, so evidence on air-quality benefits specifically is limited.
+
+## Risks & Mitigation
+
+The model relied heavily on subsidies, and battery replacement was a major financial risk, partly shifted to manufacturers through warranties. Because of shorter range, Chinese cities typically need far more electric buses than the diesel buses replaced; Shenzhen largely avoided this through charging and scheduling. Emission savings depend on a grid that still relies partly on coal. Weaker grids, gaps in charging infrastructure and maintenance problems have slowed similar transitions in smaller cities.
+"
+"norway-ev-incentives","Norway electric vehicle incentive policy","Norway","1990","transport","https://alternative-fuels-observatory.ec.europa.eu/transport-mode/road/norway/incentives-legislations | https://cms.law/en/nor/publication/cms-automotive-outlook-2026/a-new-era-for-electric-vehicle-policy-in-norway | https://www.futura-sciences.com/en/its-the-first-place-where-everyone-drives-electric-but-an-unexpected-problem-is-emerging_25167/ | https://www.oslo.kommune.no/english/statistics/environment-status/air-quality-statistics/ | https://nhh.no/en/nhh-bulletin/article-archive/2025/december/electric-cars-curbed-harmful-emissions--may-have-saved-272-lives/","## One-Sentence Summary
+
+Since 1990 Norway has used a long-running package of tax exemptions and user benefits to make battery-electric cars cheaper than petrol and diesel cars, and by 2025 about 96% of new cars sold were fully electric.
+
+## Problem
+
+Road vehicles emit greenhouse gases and local pollutants; in Oslo the main nitrogen dioxide source is exhaust, especially diesel. Electric cars cost more than comparable conventional cars.
+
+## Target Beneficiaries & Use Cases
+
+Private car buyers, company-car users and public buyers, with urban residents benefiting from lower exhaust emissions.
+
+## Solution / Service Overview
+
+The national government brought in incentives step by step. They included exemption from the one-off purchase and registration tax from 1990, exemption from the annual road tax from 1996 (later phased out), and free passage on toll roads from 1997. A full exemption from the 25% value added tax followed in 2001, access to bus lanes in 2005, and lower taxation of electric company cars from 2000. Benefits were later reduced: toll and ferry discounts were capped at 50% of the fossil-fuel rate from 2018, a weight-based registration tax was introduced in 2023, and the VAT exemption was limited to the first 500,000 kroner of the price in 2023 and the first 300,000 kroner in 2026. Further cuts are planned before full VAT applies, expected from 2028. A 2017 goal required all new cars sold from 2025 to be zero-emission.
+
+## Delivery Model
+
+Most incentives work automatically through the national tax system, with no grant applications. Municipalities and toll operators handle bus-lane and toll rules; since 2016 local authorities may restrict bus-lane access. Some cities, including Oslo and Bergen, subsidise charging points for housing cooperatives.
+
+## Funding & Sustainability
+
+The policy is paid for mainly through tax revenue the state does not collect. The government's latest estimate puts the cost of the incentive system at about 17.5 billion kroner a year. As electric cars became the norm, taxes are being reintroduced.
+
+## What Makes It New
+
+Norway kept consistent, layered incentives for over three decades and became the first country where nearly all new cars sold are electric.
+
+## Measuring Impact
+
+Electric cars made up nearly 80% of new car sales in 2022 and about 96% of the roughly 179,550 new cars registered in 2025. Most cars on the road still run on fossil fuels. Direct air-quality evidence is limited. Oslo has not exceeded the annual NO2 limit since 2017, which the city attributes to several factors: a cleaner vehicle fleet, warm winters, fewer vehicles passing the toll ring, and the 2020 pandemic. A master's thesis, which has not been described as peer-reviewed, estimated that NO2 fell by about 50% between 2010 and 2019 and linked this to 272 avoided premature deaths. It found no effect of electric cars on particulate matter.
+
+## Risks & Mitigation
+
+Critics argue that the biggest benefits went to wealthier buyers of expensive cars, and the VAT exemption has since been capped and is being phased out. Electric cars do not solve particulate pollution, because PM10 in Oslo comes mainly from road, tyre and brake wear, with studded tyres and wood burning linked to exceedances. The national electric vehicle association has warned that sales are very sensitive to the removal of tax benefits.
+"
+"tokyo-diesel-vehicle-regulation","Tokyo Metropolitan Government diesel vehicle emission regulation","Tokyo, Japan","2003","transport","https://www.kankyo1.metro.tokyo.lg.jp/archive/policy_others/international/tokyoforum2018post.files/Tokyo_AQ.pdf | https://dieselnet.com/news/2003/10tokyo.php | https://japanfs.org/en/news/archives/news_id026101.html | https://www.tresor.economie.gouv.fr/Articles/2014/08/21/lutte-contre-la-pollution-de-l-air-a-tokyo-succes-et-limites","## One-Sentence Summary
+
+From October 2003 the Tokyo Metropolitan Government banned diesel trucks and buses that did not meet its particulate emission standard from driving in Tokyo unless they were fitted with an approved filter or catalyst, and three neighbouring prefectures introduced the same rules at the same time.
+
+## Problem
+
+Roadside suspended particulate matter (SPM) in Tokyo failed the national standard: in fiscal 2002 no roadside station met it. Diesel vehicles were a major source of particulate matter, and in 2000 they produced about 44% of Tokyo's vehicle nitrogen oxide emissions while making up only 14.4% of the fleet. National emission standards applied only to new vehicles, so older, high-emitting trucks and buses stayed on the road.
+
+## Target Beneficiaries & Use Cases
+
+Tokyo residents, especially near major roads. It applied to diesel trucks, buses and special-purpose vehicles operating in Tokyo wherever registered; passenger cars were exempt.
+
+## Solution / Service Overview
+
+The metropolitan government launched a ""No Diesel Vehicle Campaign"" in August 1999 and enacted the Ordinance on Environmental Preservation in December 2000. Enforcement began on 1 October 2003, and stricter standards followed in April 2006. Vehicles were exempt for seven years after first registration. After that, they had to meet the governor's particulate standard or fit an approved device: filters with about 60% efficiency for older vehicles, or oxidation catalysts with about 30% efficiency for newer ones. Saitama, Chiba and Kanagawa matched the rules.
+
+## Delivery Model
+
+Enforcement combined licence-plate cameras, mobile inspection teams (from 2001) and a public reporting hotline. Non-compliant vehicles were ordered off the road, and repeat offenders faced fines of up to 500,000 yen. Beforehand, officials visited about 3,800 operators with 20 or more vehicles and sent 5.5 million letters. The oil industry supplied low-sulphur diesel early.
+
+## Funding & Sustainability
+
+Owners paid for retrofits or replacements; a filter cost between about 400,000 and 1.3 million yen. Local and national governments partly subsidised retrofits and purchases: more than 50,000 vehicles received support between 2001 and 2003, and small firms could get preferential loans. Some subsidy programmes ran out of money before the deadline.
+
+## What Makes It New
+
+Tokyo applied strict particulate standards to vehicles already on the road, which national rules did not, coordinated across the region; it was described as the world's largest diesel retrofit programme.
+
+## Measuring Impact
+
+The share of roadside stations meeting the SPM standard rose from 0% in fiscal 2002 to 12% in fiscal 2003 and 33 of 34 stations in fiscal 2004. All 34 met it in fiscal 2005. The government credited the diesel rules for this improvement. Results for nitrogen dioxide were weaker: only 16 of 34 roadside stations met the NO2 standard in fiscal 2004, fewer than the 53% that met it in fiscal 2003. PM2.5 concentrations fell by about 55% between 2001 and 2011. However, in 2012 only a quarter of roadside stations met the annual PM2.5 standard.
+
+## Risks & Mitigation
+
+Early compliance was uneven: about 40,000 affected Tokyo vehicles, around 20%, were reported to have missed the deadline, and shortages of devices led to a three-month grace period. Older trucks were often sold outside the region rather than scrapped, moving some emissions elsewhere. The cost fell on vehicle operators, including small firms, and subsidies and loans only partly offset it.
+"
+"paris-critair-low-emission-zone","Paris and Greater Paris low emission zone with Crit'Air vehicle stickers","Paris / Métropole du Grand Paris, France","2017","transport","https://www.airparif.asso.fr/sites/default/files/documents/2021-03/ZFE2021_evaluation_09032021.pdf | https://www.airparif.asso.fr/sites/default/files/document_publication/2012-2022-R%C3%A9sum%C3%A9%20aux%20d%C3%A9cideurs_v20250722_english_version_0.pdf | https://www.connexionfrance.com/news/do-drivers-still-need-critair-car-pollution-stickers-in-france/757476","## One-Sentence Summary
+
+Paris and the wider Greater Paris metropolis restrict the most polluting vehicles from a low emission zone, using France's national Crit'Air sticker classification; restrictions began inside Paris in 2017 and were extended to the area inside the A86 ring road in 2019.
+
+## Problem
+
+Road traffic was a major source of nitrogen dioxide in Paris. About a decade before 2022, around 1.8 million Parisians were exposed to NO2 levels above legal limits and 1.4 million to particulate levels above limits. Older diesels were a particular concern.
+
+## Target Beneficiaries & Use Cases
+
+Residents of Paris and inner suburbs, especially near major roads. It applies to owners of older vehicles driving in the zone.
+
+## Solution / Service Overview
+
+The Crit'Air system gives each vehicle a sticker graded from 0, for electric vehicles, to 5 for the most polluting, based on its emission standard. Older vehicles are left ""unclassified"". Within Paris, unclassified vehicles were restricted first, from 2017, and from 2019 the restriction extended to Crit'Air 4 vehicles. In July 2019 the metropolitan low emission zone began inside the A86 ring road, banning unclassified and Crit'Air 5 vehicles. Outside Paris it initially applied only where municipalities adopted the order, with educational checks. Driving in a zone without a sticker can lead to a fine of €68, rising to €135 in some cases.
+
+## Delivery Model
+
+The national government provides the legal framework and the Crit'Air classification. The City of Paris and the Métropole du Grand Paris set the zone rules, and each municipality adopts them by local order. Airparif, the regional air-quality monitoring body, evaluates the results.
+
+## Funding & Sustainability
+
+The zone is regulatory; its cost falls mainly on owners replacing older vehicles. Its political future has been uncertain: on 28 May 2025 the National Assembly voted at first reading to abolish low emission zones nationwide. As of December 2025 that change had not become law, and Paris was expected to keep its zone under local powers.
+
+## What Makes It New
+
+It combines a simple national vehicle label with staged local bans that tighten over time, aiming to accelerate fleet renewal rather than charge drivers.
+
+## Measuring Impact
+
+Airparif's December 2020 evaluation could not isolate the effect of the 2019 metropolitan zone, because the 2020 lockdown distorted the data. It found that NOx concentrations had fallen by 7–9% a year since 2017, while particulate levels were stable between 2017 and 2019. Within a year, 19% of the oldest vehicles inside the A86 left the fleet, although stricter roadworthiness tests may also have played a part. A 2025 Airparif study found that average NO2 exposure in Paris fell by 40% between 2012 and 2022. It attributed 55% of that fall to fleet modernisation, which the low emission zone helped speed up, and about a quarter to reduced traffic. Over the same decade PM2.5 fell by 28%. WHO guidelines are still exceeded across Paris.
+
+## Risks & Mitigation
+
+Restrictions based on vehicle age weigh most on owners of older vehicles who cannot easily replace them. Opposition to low emission zones led to the 2025 parliamentary vote, which its supporters presented as simplifying economic life. Enforcement outside Paris was initially weak. Airparif presents results as contributions, not precise causal estimates.
+"
+"san-pedro-bay-clean-air-action-plan","San Pedro Bay Ports Clean Air Action Plan (Ports of Los Angeles and Long Beach)","Los Angeles and Long Beach, California, United States","2006","transport","https://www.fhwa.dot.gov/Planning/freight_planning/talking_freight/talkingfreight5_18-11ca.pdf | https://www.portoflosangeles.org/references/news_081816_air_emissions_inventory | https://container-news.com/san-pedro-bay-ports-achieve-record-reduction-levels-of-ghg-emissions | https://abc7.com/post/clean-truck-fund-rate-port-of-los-angeles-long-beach-zero-emission/11662561/ | https://www.upi.com/Top_News/US/2013/06/13/Court-strikes-down-LA-Port-trucking-requirements/UPI-12241371138160/","## One-Sentence Summary
+
+The San Pedro Bay Ports Clean Air Action Plan is a joint plan by the Ports of Los Angeles and Long Beach, adopted in November 2006, to cut air pollution from ships, trucks, trains, harbour craft and cargo-handling equipment while allowing the ports to keep growing.
+
+## Problem
+
+The neighbouring ports are major container gateways; Los Angeles alone moved nearly 8.2 million container units in 2015. Their ships, trucks and equipment were a significant source of diesel particulate matter, nitrogen oxides and sulphur oxides in the South Coast Air Basin, and diesel particulates posed a health risk to nearby communities.
+
+## Target Beneficiaries & Use Cases
+
+Residents of port-adjacent and freight-corridor communities and the wider region. It affects shipping lines, terminal operators, truckers and railways serving the ports.
+
+## Solution / Service Overview
+
+It was developed with the US EPA, the California Air Resources Board and the South Coast Air Quality Management District. Its measures include the Clean Truck Program, which was set up in 2007 and from October 2008 progressively barred older trucks from port terminals. Others include vessel speed reduction incentives, shore power for docked ships, cleaner vessel fuels, cleaner locomotives, cargo equipment and harbour craft, and a Technology Advancement Program. A 2010 update set targets against a 2005 baseline: by 2023, emissions were to fall by 77% for diesel particulate matter, 59% for nitrogen oxides and 93% for sulphur oxides. The update also set a target for reducing health risk. A 2017 update set a goal of zero-emission drayage trucks by 2035.
+
+## Delivery Model
+
+Each port's harbour commission implements it through tariffs, terminal access rules and incentives, and both ports publish annual emissions inventories. Some measures are reinforced by state rules, such as the California vessel fuel regulation that took effect in 2009.
+
+## Funding & Sustainability
+
+The Technology Advancement Program had provided $5.4 million by early 2010. From April 2022 the ports began charging a Clean Truck Fund Rate of $10 for each twenty-foot container unit moved by trucks that do not meet zero-emission or low-NOx standards. It was expected to raise about $45 million a year per port until 2034, funding zero-emission trucks.
+
+## What Makes It New
+
+Two competing ports agreed joint, measurable emission targets covering all freight equipment, using their own powers as landlords rather than relying only on regulators.
+
+## Measuring Impact
+
+By February 2010, 77% of trucks serving Long Beach and 84% of those serving Los Angeles met the clean truck standards. The Port of Los Angeles reported that by 2015 it had cut diesel particulate matter by 85%, sulphur oxides by 97% and nitrogen oxides by 51% compared with 2005. A shipping association's summary of the ports' 2023 inventories reported combined reductions of 91% for diesel particulate matter, 72% for nitrogen oxides and 98% for sulphur oxides, exceeding the 2023 targets. Greenhouse gas reductions were much smaller, at 20%.
+
+## Risks & Mitigation
+
+State and federal rules also contributed, so the plan's own share is hard to isolate. In 2013 the US Supreme Court unanimously ruled that federal law preempted the Port of Los Angeles's placard and off-street parking requirements for trucks. The older-truck ban was unaffected. Nitrogen oxides have been harder to reduce than sulphur and particulates.
+"
+"beijing-coal-action-plan","China Air Pollution Prevention and Control Action Plan 2013-2017 (Beijing coal reduction and coal-to-gas measures)","Beijing, China","2013","energy-industry","https://policy.asiapacificenergy.org/node/2875 | https://www.unep.org/news-and-stories/press-release/beijing-air-improvements-provide-model-other-cities | https://pmc.ncbi.nlm.nih.gov/articles/PMC6900509 | http://www.upi.com/Business_News/Energy-Industry/2013/10/07/Beijing-aims-to-switch-from-coal-to-natural-gas/UPI-99801381173649/ | https://www.arabnews.com/node/1070896 | https://www.ecowatch.com/beijing-air-quality-improvement-2522381997.html | https://arxiv.org/abs/2004.09585 | https://www.caixinglobal.com/2017-12-07/rural-farmers-freeze-as-coal-cleanup-campaign-backfires-101182005.html | https://mg.co.za/article/2017-12-17-china-shivers-as-shift-from-coal-to-gas-sputters","## One-Sentence Summary
+
+China's State Council issued the Air Pollution Prevention and Control Action Plan in September 2013 with PM2.5 targets for 2017, and Beijing met its target mainly by cutting coal: replacing coal power plants with gas, closing coal boilers and factories, and switching household heating to gas or electricity.
+
+## Problem
+
+In the early 2010s Beijing and the surrounding region suffered severe winter smog, and coal burned in power plants, boilers and household stoves was a major source. Beijing used about 23 million tonnes of coal in 2012; its four large coal power plants burned 9.2 million tonnes of it.
+
+## Target Beneficiaries & Use Cases
+
+The plan aimed to protect the population of Beijing and the wider region. Measures targeted power generators, coal boiler owners, heavy industry and, from 2017, rural and suburban households heating with raw coal.
+
+## Solution / Service Overview
+
+The national plan required PM2.5 in the Beijing-Tianjin-Hebei region to fall about 25% from 2012 levels by 2017, with Beijing's annual average at about 60 µg/m³. It called for falling coal use in key regions, phase-out of small urban coal boilers and coal-to-gas retrofits. Beijing set a target of using 13 million tonnes less coal in 2017 than in 2012. It built gas-fired combined heat and power centres to replace its four coal plants; the last large coal plant suspended operations in March 2017. Nearly 2,000 polluting factories were closed. From 2017, clean-heating campaigns replaced household coal stoves with gas heaters or electric heating in Beijing, Tianjin and 26 other northern cities.
+
+## Delivery Model
+
+The State Council set targets and assigned responsibility to provincial governments, with mid-term (2015) and final (2017) evaluations. Local governments carried out closures and village heating conversions, often as fast-moving campaigns.
+
+## Funding & Sustainability
+
+The Beijing power-plant switch was reported in 2013 to cost about US$7.8 billion. The plan also used pollution charges, tariff incentives and compensation for households. Running costs were a concern: one 2017 report described a Hebei family expecting to pay at least 5,000 yuan for a winter of gas heating, compared with about 2,000 yuan for coal.
+
+## What Makes It New
+
+The plan set quantified regional PM2.5 concentration targets and tied them to official evaluations of provincial governments, and Beijing went further by removing all large coal-fired power plants from the city.
+
+## Measuring Impact
+
+Beijing's annual average PM2.5 was 58 µg/m³ in 2017, meeting the target; UN Environment reported a 35% fall from 2013, with a 25% fall in surrounding areas, and cuts in Beijing's emissions of SO2, NOx, PM10 and VOCs of 83%, 43%, 55% and 42%. A peer-reviewed study estimated that national population-weighted PM2.5 fell from 61.8 to 42.0 µg/m³ in 2013-2017, mostly due to emission controls rather than weather. Officials said drier, windier weather helped in 2017, and levels stayed well above national and WHO standards.
+
+## Risks & Mitigation
+
+The 2017 heating conversion outpaced gas supply. Shortages left some villages, schools and a hospital in Hebei without adequate heat, and in December 2017 the environment ministry allowed areas with incomplete conversions to resume burning coal. One study linked the diversion of gas to the north with PM2.5 rising about 15% across parts of southern China that winter.
+"
+"krakow-solid-fuel-ban","Kraków ban on burning coal and wood for heating (Małopolska Anti-Smog Resolution)","Kraków, Poland","2019","energy-industry","https://ieep.eu/publications/anti-smog-resolution-banning-solid-fuels-for-heating-krakow-case-study/ | https://ieep.eu/wp-content/uploads/2026/06/Anti-smog-resolution-banning-solid-fuels-for-heating-Krakow-case-study-IEEP-2026.pdf | https://www.eea.europa.eu/en/analysis/publications/managing-air-quality-in-europe/anti-smog-measures-in-the-malopolska-region-of-poland","## One-Sentence Summary
+
+Since September 2019 a resolution of the Małopolska Regional Assembly has banned burning coal, wood and other solid fuels for heating in Kraków, supported by municipal programmes that paid households to replace old stoves and boilers.
+
+## Problem
+
+Kraków lies in a valley with poor ventilation and for decades exceeded EU and WHO standards for PM2.5, PM10 and benzo(a)pyrene, largely because of coal and wood burned in household stoves and boilers. In 2013 parents, doctors and a citizen movement, Kraków Smog Alert, began large protests about the health effects.
+
+## Target Beneficiaries & Use Cases
+
+All Kraków residents, especially children and people with respiratory and heart disease, and households still heating with solid fuel, including low-income households at risk of energy poverty.
+
+## Solution / Service Overview
+
+A first regional resolution in 2013 included a total solid-fuel ban, but administrative courts invalidated it in 2014-2015 because national environmental law did not clearly allow regional governments to adopt it. After national law was amended, the Małopolska Regional Assembly adopted Resolution No. XVIII/243/16 in January 2016, banning solid fuels for heating in Kraków from September 2019. Only gaseous fuels and light heating oil may be burned; district heating, electric heating and heat pumps are alternatives. Between 2012 and 2019, 25,182 coal and wood heating devices in the city were replaced.
+
+## Delivery Model
+
+The regional assembly adopted the legal ban, while the municipality ran replacement programmes, communication campaigns, door-to-door outreach and inspections. The city mapped households still using solid fuel and those in difficult circumstances, opened energy advice points and hired additional municipal guards to check compliance.
+
+## Funding & Sustainability
+
+Replacing heating systems in Kraków cost about €76 million between 2012 and 2019, funded by the city budget, the National Fund for Environmental Protection and the EU LIFE programme. The main programme initially covered the full replacement cost, then reduced support over time to encourage early action, while low-income households kept full coverage. A separate programme spent over €3 million helping more than 11,000 households with higher heating bills.
+
+## What Makes It New
+
+Kraków was the first Polish city to ban solid-fuel heating outright, in a country long dependent on coal, and the ban required a change in national law to give regional authorities the power to adopt it.
+
+## Measuring Impact
+
+A 2025 evaluation cited by the Institute for European Environmental Policy estimated that the resolution reduced annual average concentrations by 23-39% for PM10, 23-36% for PM2.5 and 39-41% for benzo(a)pyrene, with the largest falls in heating seasons. Days above the daily PM10 limit at one central station fell from 132 in 2012 to 31 in 2023, and annual mean PM2.5 fell from about 37 µg/m³ in 2013 to about 17 µg/m³ in 2024. In February 2025 the city reported only 80 solid-fuel fireplaces remaining.
+
+## Risks & Mitigation
+
+Upfront replacement costs caused early resistance, which eased once the municipality covered them. Coal and boiler industry groups and some restaurants with wood-fired ovens opposed the ban. Emissions from surrounding towns, where rules are weaker and about 400,000 solid-fuel boilers in the wider region still needed replacing in 2020, together with road traffic, continue to affect the city. Enforcement depends on staff and funding that most other municipalities lack.
+"
+"ulaanbaatar-raw-coal-ban","Ulaanbaatar ban on household raw coal use with refined coal briquettes","Ulaanbaatar, Mongolia","2019","energy-industry","https://www.mongolia.gov.mn/news/view/19126 | https://m.akipress.com/news:637057:Officials_say_Ulaanbaatar’s_air_quality_improved_since_last_year | https://www.wionews.com/world/mongolias-new-cleaner-fuel-linked-to-deaths-illness-263041/amp | https://research.birmingham.ac.uk/en/publications/carbon-monoxide-levels-in-households-using-coal-briquette-fuelled/ | https://mongoliaweekly.org/post/new-fuel-plant-opens-in-bid-to-reduce-air-pollution | https://events.development.asia/sites/default/files/materials/2021/08/202108-mbis-air-quality-improvement-ulaanbaatar.pdf","## One-Sentence Summary
+
+From 15 May 2019 the Government of Mongolia banned the use of raw coal by households and businesses in central Ulaanbaatar, requiring families in the ger districts to burn subsidised refined coal briquettes instead.
+
+## Problem
+
+Ulaanbaatar is the world's coldest capital, and hourly winter PM2.5 concentrations above 3,300 µg/m³ have been recorded. The government estimated in 2018 that about 202,000 households in the city's ger districts burned 1.1 million tonnes of raw coal each winter, producing about 80% of the capital's smog.
+
+## Target Beneficiaries & Use Cases
+
+The measure was aimed at the city's whole population, and in particular at ger-district families, who depend on simple stoves for heating and cooking at temperatures that can fall to -40°C and who were most exposed to smoke.
+
+## Solution / Service Overview
+
+A Cabinet decision of 28 February 2018 prohibited raw coal use in six central districts from 15 May 2019, exempting licensed power and heat plants. Refined coal briquettes became the permitted stove fuel. The government calculated that a household burning 4-5 tonnes of raw coal a season would need about 3 tonnes of briquettes and would save about MNT 190,000. A new briquette plant with a designed capacity of 600,000 tonnes a year opened in December 2020. Alongside the ban, ger households received free night-time electricity in the heating season, benefiting 109,000 households in 2019.
+
+## Delivery Model
+
+The national government set the ban, and a national committee chaired by the environment minister coordinated ministries and agencies. Briquettes were made by a state-owned factory. Raw coal found at entry points to the city was confiscated, and fines were set at MNT 300,000 for households and MNT 3 million for businesses.
+
+## Funding & Sustainability
+
+The state used producer subsidies to keep briquette prices close to the price of the raw coal they replaced. A 2021 Asian Development Bank presentation noted that the cost of night-time electricity subsidies was forecast to triple to US$10.5 million by 2023 and that poorer households could not afford the upfront cost of electric heating.
+
+## What Makes It New
+
+Instead of only promoting cleaner stoves, it banned household raw coal and substituted a single state-supplied processed fuel, combined with an electricity tariff incentive.
+
+## Measuring Impact
+
+City officials reported in March 2020 that PM10 was 63% and PM2.5 50% lower than in the same period a year earlier, and the city's air pollution department later cited a 55% year-on-year fall in PM2.5. These are official figures; independent evaluation is limited, and one local scientist noted that a long, warm autumn may also have contributed. A 2022 study of 33 households found lower median indoor carbon monoxide in briquette-using homes than in raw-coal homes, but peak levels still exceeded WHO guidelines in 39% of briquette homes.
+
+## Risks & Mitigation
+
+In the first winter, press reports described nearly 1,000 people hospitalised for carbon monoxide poisoning and eight deaths, which officials linked to poorly functioning stoves and incorrect use; briquettes need more air to burn than raw coal. The factory began free stove repairs, and in January 2020 the government distributed carbon monoxide detectors to all ger households, though some were found switched off. The approach still relies on coal and on continuing subsidies.
+"
+"india-ujjwala-lpg","Pradhan Mantri Ujjwala Yojana (PMUY) LPG connections for poor households","India","2016","energy-industry","https://www.pmuy.gov.in/about.html | https://static.pib.gov.in/WriteReadData/specificdocs/documents/2024/mar/doc2024315325001.pdf | https://www.downtoearth.org.in/news/governance/lpg-connections-not-only-success-metric-cag-on-ujjwala-68387 | https://www.factchecker.in/context-check/over-95-crore-lpg-connections-provided-under-pmuy-but-gas-refilling-woes-remain-852166","## One-Sentence Summary
+
+Launched by India's Ministry of Petroleum and Natural Gas on 1 May 2016, Pradhan Mantri Ujjwala Yojana gives deposit-free liquefied petroleum gas (LPG) connections to women in poor households so they can replace firewood, coal and dung with gas for cooking.
+
+## Problem
+
+Many poor rural households in India cooked on open fires or simple stoves burning firewood, coal or cow-dung cakes. The resulting indoor smoke harms the health of women and children, who spend the most time near the kitchen, and collecting fuel takes time.
+
+## Target Beneficiaries & Use Cases
+
+Adult women from poor households without an existing LPG connection, identified through the Socio-Economic Caste Census and categories such as Scheduled Castes and Tribes and forest dwellers. The main use is daily household cooking.
+
+## Solution / Service Overview
+
+The scheme provides financial support of Rs 1,600 per connection for a 14.2 kg cylinder (Rs 1,150 for a 5 kg cylinder), covering the cylinder deposit, regulator, hose, consumer card and installation. Oil marketing companies provide the first refill and a stove. The original target was 80 million connections (8 crore), reached in September 2019. A second phase from August 2021 added more connections, with a focus on migrant households. A targeted subsidy per refill was later added: Rs 200 per cylinder from May 2022 and Rs 300 per cylinder for up to 12 refills a year as of 2024.
+
+## Delivery Model
+
+The ministry funds and oversees the scheme; state-owned oil marketing companies deliver connections through their distributor network. Subsidies are paid by direct benefit transfer after a refill is bought.
+
+## Funding & Sustainability
+
+The connection cost is paid from the central budget, and refills are paid by households with a targeted subsidy. Affordability has been the main constraint. The unsubsidised price of a 14.2 kg cylinder in Delhi rose from Rs 527.5 in May 2016 to Rs 1,053 by July 2022, partly because India imports much of its LPG.
+
+## What Makes It New
+
+It used the national welfare database and the LPG distribution network to deliver clean-fuel connections at very large scale, registering connections in women's names.
+
+## Measuring Impact
+
+Official data show 103.1 million connections (10.31 crore) by March 2024. Average use by beneficiaries rose from 3.01 refills a year in 2019-20 to 3.71 in 2022-23 and 3.8 in 2023-24 (to October). Use is still low: a household cooking only with LPG needs at least seven cylinders a year, according to a 2020 study. India's national auditor (CAG) reported in 2019 that 17.61% of beneficiaries who had completed a year never took a second refill and 33.02% took only one to three, and that the average refill rate was declining. In 2021-22, 56.5% of beneficiaries took four or fewer refills. No official monitoring of indoor air quality or health outcomes was found, so the scheme's measured result is mainly connections and refills.
+
+## Risks & Mitigation
+
+The CAG concluded that the scheme could not be called successful without sustained LPG use and found that efforts such as smaller 5 kg cylinders and awareness drives had not raised consumption. Beneficiaries interviewed in 2023 said they could not afford refills, and paying before the subsidy arrives burdens poor families. Budget allocations for new connections fell sharply in 2023-24.
+"
+"us-acid-rain-program","US Acid Rain Program (SO2 cap-and-trade under Title IV of the 1990 Clean Air Act Amendments)","United States","1995","energy-industry","https://www.epa.gov/acidrain/acid-rain-program | https://epa.gov/acidrain/acid-rain-program-results | https://www.epa.gov/system/files/documents/2024-05/power-sector-programs-progress-report-fact-sheet.pdf | https://www.nber.org/papers/21383 | https://www.eia.gov/todayinenergy/detail.php?id=4830","## One-Sentence Summary
+
+The US Environmental Protection Agency's Acid Rain Program, created under Title IV of the 1990 Clean Air Act Amendments, capped sulphur dioxide emissions from power plants and let plants trade emission allowances, with compliance starting in 1995.
+
+## Problem
+
+Sulphur dioxide and nitrogen oxides from coal-burning power plants caused acid deposition that damaged lakes, streams and forests, particularly in the eastern United States, and contributed to fine particle pollution.
+
+## Target Beneficiaries & Use Cases
+
+Sensitive lakes and streams, such as those in the Adirondacks and New England, and people downwind of power plants. The regulated parties were fossil-fuel electricity generating units.
+
+## Solution / Service Overview
+
+The law set a goal of cutting annual sulphur dioxide emissions by 10 million tons below 1980 levels, with a permanent cap from 2010 of 8.95 million tons, about half of 1980 power-sector emissions. EPA allocated allowances, each permitting one ton of sulphur dioxide. Plants could reduce emissions and sell or bank spare allowances, or buy allowances to cover shortfalls, but had to hold enough allowances at year end to cover their emissions. A separate nitrogen oxides component set emission rates for boilers, without trading.
+
+## Delivery Model
+
+Phase I began in 1995 with 263 units at 110 mostly coal-fired plants in 21 eastern and midwestern states. Phase II, from 2000, extended coverage to over 2,000 units, including smaller coal, oil and gas units. Each unit must measure emissions with continuous emissions monitoring systems under federal rules, and
+
+## Funding & Sustainability
+
+Plants paid for compliance by installing scrubbers, switching fuel or buying allowances. A peer-reviewed analysis estimated savings of about $240 million a year (in 1995 dollars) in 2002 compared with a uniform performance standard achieving the same total emissions.
+
+## What Makes It New
+
+Instead of prescribing control technology plant by plant, it fixed a national emissions cap, let plants choose how to comply and trade allowances, and relied on mandatory continuous monitoring to make the system credible.
+
+## Measuring Impact
+
+EPA reports that power-sector sulphur dioxide emissions were 650,000 tons in 2023, 96% below 1995, far below the 8.95 million ton cap. Wet sulphate deposition in the eastern US fell 73% between 2000-2002 and 2020-2022, and acid neutralising capacity improved significantly at monitored lakes and streams. Compliance among plants in the trading programmes was 100%. However, EPA attributes these reductions to the Acid Rain Program together with later regulations, such as the Cross-State Air Pollution Rule, and changes in the energy sector, including less coal use, so not all of the decline can be credited to the programme alone.
+
+## Risks & Mitigation
+
+Trading shifted where emissions occurred. One study found that in 2002 trading moved allowances from plants west of the Mississippi to eastern plants near larger populations, so health damages were about $2.4 billion (2000 dollars) higher than if each plant had emitted only its allocation. Overlapping rules also undermined the market: after a 2008 court ruling on a related rule and later regulations, together with new scrubbers and less coal generation, average allowance prices fell from $534 per ton in 2007 to $2.12 in 2011. With emissions now far below the cap, the cap itself no longer limits emissions, and further cuts have come alongside other rules.
+"
+"dublin-coal-ban","Dublin ban on the sale of bituminous (smoky) coal","Dublin, Ireland","1990","energy-industry","https://news.harvard.edu/gazette/story/2002/10/report-clears-the-air-on-coal-ban-in-dublin | https://news.harvard.edu/gazette/story/2002/10/ban-on-coal-burning-in-dublin-cleans-the-air-reduces-death-rates/ | https://stafforini.com/works/clancy-2002-effect-of-air/ | https://www.healtheffects.org/system/files/Dockery-176-Statement.pdf | https://healtheffects.org/node/146 | https://laois.ie/environment/air-quality/solid-fuel-regulations-enforcement | https://dlrcoco.ie/environment/environmental-health/bituminous-smoky-coal-ban | https://www.finegael.ie/?p=46172","## One-Sentence Summary
+
+On 1 September 1990 the Irish Government banned the marketing, sale and distribution of bituminous (""smoky"") coal in Dublin, a measure later extended to other towns and, in 2022, replaced by national solid-fuel standards.
+
+## Problem
+
+During the 1980s many Dublin households switched from oil to cheaper and more available coal for home and water heating. Smoke from domestic coal fires caused high winter concentrations of black smoke, and the city's air quality deteriorated markedly.
+
+## Target Beneficiaries & Use Cases
+
+Dublin residents, particularly people with respiratory and heart disease. The ban applied to fuel suppliers and retailers and, indirectly, to households heating with open coal fires.
+
+## Solution / Service Overview
+
+Rather than regulating each fireplace, the ban acted on fuel supply: bituminous coal could no longer be sold or distributed in the city, so households had to use low-smoke fuels, other fuels or other heating systems. The ban was extended to 11 more Irish cities and towns in 1995, 1998 and 2000, and later to further urban areas, covering 41 areas before 2022. On 31 October 2022 national Solid Fuels Regulations took effect across the whole country, setting a smoke emission limit of under 10 grams per hour for coal products, a sulphur limit, moisture limits for wood, and a ban on retail sales of turf.
+
+## Delivery Model
+
+The national government sets the regulations, and local authorities enforce them by inspecting premises and delivery vehicles, sampling fuel, issuing fixed-penalty notices and prosecuting. Fixed fines for selling prohibited fuels in low-smoke zones were set at €250 to €1,000.
+
+## Funding & Sustainability
+
+The ban is a regulatory measure with low direct public cost; costs fall mainly on fuel suppliers and on households buying alternative fuels. Its continuation depends on local authority enforcement capacity.
+
+## What Makes It New
+
+It controlled pollution by restricting what fuel could be sold in a whole city, an approach that is simple to administer, and its effects were later studied as a natural experiment on the health benefits of reducing particulate pollution.
+
+## Measuring Impact
+
+A 2002 study comparing six years before and after the ban found that average black smoke concentrations in Dublin fell by 35.6 µg/m³, or 70%. It estimated that non-trauma death rates fell 5.7%, respiratory deaths 15.5% and cardiovascular deaths 10.3%, about 116 fewer respiratory and 243 fewer cardiovascular deaths a year. A 2013 reanalysis by the same research group for the Health Effects Institute, covering 12 cities and using a comparison population to control for long-term trends, confirmed clear falls in black smoke and a significant 17% fall in respiratory mortality after the Dublin ban. However, it found no reduction in total or cardiovascular mortality, and the institute's review committee concluded the earlier study had likely overestimated those effects. Results for sulphur dioxide were unclear because of measurement limitations.
+
+## Risks & Mitigation
+
+Enforcement has been weak at times: only six prosecutions were initiated between 2015 and 2019, and politicians called for action against cross-border online sales of non-compliant fuel. Sampling of coal from Dublin retailers in 2024 found significant non-compliance with sulphur limits. Households could switch to other smoky fuels such as wet wood and turf, which the 2022 national regulations were designed to address.
+"
+"uk-clean-air-act-1956","UK Clean Air Act 1956","United Kingdom","1956","energy-industry","https://historyandpolicy.org/?p=1616 | https://www.eea.europa.eu/en/analysis/publications/2599xxx/page017.html | https://econpapers.repec.org/paper/cgewacage/587.htm | https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/wp587.2021.pdf","## One-Sentence Summary
+
+Passed in July 1956 after the London smog of 1952, the Clean Air Act banned dark smoke from chimneys and let local authorities declare smoke control areas where only smokeless fuels could be burned, with conversion grants for households.
+
+## Problem
+
+British cities relied heavily on coal burned in open domestic fires and in industry. In the London smog of 5-9 December 1952, about 4,000 people died according to official figures, and later research suggests about 12,000. A government committee estimated the economic cost of smoke pollution at £250 million a year.
+
+## Target Beneficiaries & Use Cases
+
+Urban populations in industrial ""black areas"", including London and the cities of the Midlands and the North. The Act regulated households burning coal in open fires as well as industrial chimneys.
+
+## Solution / Service Overview
+
+The Act prohibited dark smoke from any chimney, controlled grit and dust from furnaces, and gave industry seven years to reduce smoke. Its central tool was the smoke control area: within one, emitting smoke was an offence unless an authorised smokeless fuel, such as coke or manufactured briquettes, or an exempted appliance was used. A second Clean Air Act in 1968 required slow-moving authorities to submit smoke control programmes.
+
+## Delivery Model
+
+Declaring smoke control areas was a power, not a duty, so progress depended on each local authority. In 1959 about 325 authorities in black areas were asked to prepare programmes. Councils surveyed and visited each household, usually at least twice, and administered grants.
+
+## Funding & Sustainability
+
+Owners were repaid seven-tenths of the reasonable cost of conversion: central government paid 40% and the local authority 30%, leaving householders 30%. From 1964 grants also covered gas and electric heating. The average conversion cost rose to about £70 per home by 1970, far above the early estimate of £10,, and costs were spread over about 40 years.
+
+## What Makes It New
+
+It tackled domestic coal smoke, not only industrial emissions, through area-based bans on smoky fuel that were phased in neighbourhood by neighbourhood and backed by public conversion grants.
+
+## Measuring Impact
+
+Smoke levels fell greatly over the following decades: in London, black smoke concentrations declined between 1956 and 1990 from about thirty times the level the WHO considers safe to just above that level. However, the Act was one cause among several. A 2021 study of 58 English county boroughs from 1957 to 1973 found that smoke control areas accounted for about 18% of the total fall in black smoke, with the remainder reflecting other changes over the period; historians also cite North Sea gas and pit closures. The same study found smoke control areas eliminated the winter peak in smoke and in infant mortality and reduced baseline infant mortality by over 15%.
+
+## Risks & Mitigation
+
+Implementation was slow: by 1970 only twelve local authorities had fully implemented smoke control, although 75% of London was covered; Greater London was fully covered by 1980 and Greater Manchester only in 1990. Smokeless fuel was often scarce, some orders had been suspended by 1970, many councils struggled to fund grants, landlords were reluctant to replace fittings, and free coal for miners slowed progress. A London smog in December 1962 caused about 700 excess deaths and prompted criticism of slow progress.
+"
+"china-ultra-low-emission-coal-power","China ultra-low emission standards and retrofits for coal-fired power plants","China","2014","energy-industry","https://techxplore.com/news/2019-10-china-track-ultra-low-emissions-goals.html | https://www.lexiscn.com/latest_message.php?id=164721 | https://global.chinadaily.com.cn/a/201709/21/WS5a0baa4ca31061a738404216.html | https://www.alamtri.com/news/read/829/China_offers_bonus_to_coal_power_plants_to_meet_emissions_rules | https://pmc.ncbi.nlm.nih.gov/articles/PMC6900509 | https://news.mit.edu/2018/checking-china-pollution-by-satellite-0618","## One-Sentence Summary
+
+From 2014-2015 China required its coal-fired power plants to retrofit to ""ultra-low emission"" limits of 35 mg/m³ for sulphur dioxide, 50 mg/m³ for nitrogen oxides and 10 mg/m³ for particulate matter, with the aim of all plants complying by 2020.
+
+## Problem
+
+Coal-fired plants made up about three-quarters of China's generating capacity in 2015 and, according to the environment ministry, produced about half of the country's overall pollutant emissions, the highest share of any industry. Earlier standards had reduced emissions, but severe regional smog persisted and China expected to keep relying on coal power.
+
+## Target Beneficiaries & Use Cases
+
+The policy covered owners and operators of coal-fired generating units. The intended beneficiaries were people in heavily polluted regions, beginning with the Beijing-Tianjin-Hebei region and eastern China.
+
+## Solution / Service Overview
+
+In September 2014 the National Development and Reform Commission and two other authorities issued an action plan for upgrading coal power for energy saving and emission reduction for 2014-2020, which also set coal-consumption efficiency targets for new and existing units. In 2015 the Ministry of Environmental Protection, the National Development and Reform Commission and the National Energy Administration issued a work plan requiring all coal-fired plants to become ultra-low emission and energy-saving by 2020. Plants upgraded desulphurisation, denitrification and dust-removal equipment to meet the new limits.
+
+## Delivery Model
+
+Central ministries set the limits and deadlines, and power companies financed and carried out the retrofits. Compliance is tracked through a national continuous emissions monitoring system network, which covers 96-98% of thermal power capacity.
+
+## Funding & Sustainability
+
+Power companies paid for retrofits, partly offset by an electricity price premium. From 1 January 2016 existing plants meeting the requirements received an extra 0.01 yuan per kWh, and new plants 0.005 yuan per kWh, initially until the end of 2017.
+
+## What Makes It New
+
+It applied one set of very tight limits to an entire national coal fleet through retrofits with a fixed deadline and a tariff premium for compliant plants, and researchers later published plant-level emissions data built from the monitoring network.
+
+## Measuring Impact
+
+A study using plant-level monitoring data found that annual power-plant emissions fell from 2.21 to 0.77 million tonnes of sulphur dioxide (65%), from 3.11 to 1.26 million tonnes of nitrogen oxides (60%), and from 0.52 to 0.14 million tonnes of particulate matter (72%) between 2014 and 2017. Another peer-reviewed study reported that 71% of coal-fired generating capacity met the ultra-low standards by the end of 2017. In 2017 the environment ministry said the upgrade was complete in the Beijing-Tianjin-Hebei region and largely achieved in eastern China.
+
+## Risks & Mitigation
+
+Results rely heavily on self-reported monitoring data. A 2018 study of the tighter standards that took effect in July 2014, comparing monitoring data from 256 plants with satellite measurements found the two matched closely where standards were moderate, but showed no correspondence in key regions with a 50 mg/m³ sulphur dioxide limit, where reported compliance fell from 100% to about 50%; the authors called for closer scrutiny of data quality. China had earlier launched a crackdown after reports that plants manipulated or switched off emissions equipment. The standards address local pollutants only and do not limit carbon dioxide from the plants.
+"
+"imo-2020-sulphur-cap","IMO 2020 global 0.50% sulphur limit for ship fuel (MARPOL Annex VI)","Global","2020","energy-industry","https://imo.org/en/MediaCentre/PressBriefings/Pages/MEPC-70-2020sulphur.aspx | https://www.imo.org/en/MediaCentre/PressBriefings/pages/02-IMO-2020.aspx | https://www.airclim.org/acidnews/major-drop-ship-sulphur-emissions-confirmed | https://pmc.ncbi.nlm.nih.gov/articles/PMC5802819 | https://dieselnet.com/news/2019/01scrubbers.php","## One-Sentence Summary
+
+From 1 January 2020 the International Maritime Organization reduced the maximum sulphur content of fuel oil used by ships worldwide from 3.50% to 0.50% by mass, under Annex VI of the MARPOL convention.
+
+## Problem
+
+Ships traditionally burned heavy fuel oil with high sulphur content. Their sulphur oxide and particle emissions contribute to fine-particle pollution in ports and coastal areas, where they are linked to premature deaths and childhood asthma; the IMO describes sulphur oxides as a major risk to the environment and human health. Before 2020, stricter limits applied only in a few designated emission control areas.
+
+## Target Beneficiaries & Use Cases
+
+The rule covers fuel used in ships' main and auxiliary engines and boilers and is implemented by the states party to MARPOL Annex VI. The intended beneficiaries are people in port cities and coastal communities outside the existing emission control areas.
+
+## Solution / Service Overview
+
+The 2020 date was set by amendments adopted in 2008, subject to a review of whether enough compliant fuel would be available. That review, completed in 2016, found supply would be sufficient, and the Marine Environment Protection Committee confirmed the date in October 2016. Ships can comply by using very low sulphur fuel oil or marine gas oil, which most ships did; by fitting approved exhaust gas cleaning systems (""scrubbers""), about 3,100 of which had been reported to the IMO by the end of 2020; or by using fuels such as liquefied natural gas or methanol. The stricter 0.10% limit in emission control areas, in force since 2015, continued.
+
+## Delivery Model
+
+The IMO sets the standard, and member states that are parties to MARPOL Annex VI implement it as flag states and port states, including approving scrubbers and inspecting fuel. Ships that cannot obtain compliant fuel must report this, and the IMO recorded 55 such cases in 2020.
+
+## Funding & Sustainability
+
+No public fund is involved. Shipowners bear the higher cost of compliant fuel or of installing scrubbers.
+
+## What Makes It New
+
+It extended a strict fuel-sulphur limit from a few regional emission control areas to all sea areas worldwide, including the high seas.
+
+## Measuring Impact
+
+The IMO reports a 70% cut in total sulphur oxide emissions from shipping. A study using aircraft and ground measurements in the North-East Atlantic and European waters from 2019 to 2023 found that average fuel sulphur content in open-ocean areas fell roughly tenfold after 2020, and that only a small number of ships exceeded the new limit, compared with many exceeding the old limit before. Health benefits rely mainly on modelling: a 2018 study projected that cleaner fuels would cut ship-related premature deaths by 34% and childhood asthma cases by 54%, while ship pollution would still cause about 250,000 deaths a year.
+
+## Risks & Mitigation
+
+Scrubbers let ships keep burning high-sulphur fuel, and open-loop systems discharge acidic washwater that can contain heavy metals. China, Singapore, Fujairah and Waterford in Ireland, among others, have banned washwater discharge in their waters. Researchers suggested that some remaining exceedances may come from poorly working scrubbers. Lower sulphur also reduces the cooling effect of ship aerosols by about 80%, which the 2018 study estimated as about a 3% increase in total human-caused climate forcing.
+"
+"hong-kong-fuel-at-berth","Hong Kong Air Pollution Control (Ocean Going Vessels) (Fuel at Berth) Regulation","Hong Kong, China","2015","energy-industry","https://www.hfc.org.hk/filemanager/files/TFKT_03_2015.pdf | https://www.info.gov.hk/gia/general/201506/17/P201506170559.htm | https://www.info.gov.hk/gia/general/201702/08/P2017020800289.htm | https://www.skuld.com/topics/environment/air-pollution/asia/hong-kong-air-emission-standards/ | https://www.info.gov.hk/gia/general/201209/14/P201209140402.htm | https://marine-offshore.bureauveritas.com/newsroom/newly-designated-emission-control-areas-china","## One-Sentence Summary
+
+Since 1 July 2015 Hong Kong has required ocean-going vessels at berth to burn fuel with no more than 0.5% sulphur, or use an equally effective alternative, making it the first port in Asia to mandate a fuel switch at berth.
+
+## Problem
+
+After controls on land-based sources, marine vessels became Hong Kong's largest local source of air pollution, accounting in 2012 for 50% of sulphur dioxide, 37% of respirable suspended particulates and 32% of nitrogen oxides. Ocean-going vessels could then burn fuel with up to 3.5% sulphur, and emissions while berthed made up about 40% of a vessel's sulphur dioxide emissions in Hong Kong, with impacts most noticeable near the Kwai Chung container terminals.
+
+## Target Beneficiaries & Use Cases
+
+Ocean-going container and cruise ships at berth, and residents near the terminals and harbour.
+
+## Solution / Service Overview
+
+In 2011, 17 major shipping lines signed the voluntary Fair Winds Charter, committing to switch to low-sulphur fuel at berth as far as possible. From 26 September 2012 a three-year incentive scheme halved port facilities and light dues for vessels that switched. A mandatory regulation followed on 1 July 2015. Vessels must use fuel of no more than 0.5% sulphur, liquefied natural gas or another approved fuel, or technology such as a scrubber that cuts sulphur dioxide at least as effectively, except during the first hour after arrival and the last hour before departure.
+
+## Delivery Model
+
+The Environmental Protection Department enforces the regulation through unannounced inspections and records checks, while the Marine Department handled incentive applications. Breaches carry a maximum fine of HK$200,000 and six months' imprisonment, and record-keeping failures up to HK$50,000 and three months.
+
+## Funding & Sustainability
+
+Shipowners pay the extra cost of cleaner fuel. Under the incentive scheme, 8,146 applications were approved by February 2015, about 13% of vessel calls, at a cost of about HK$42.1 million in forgone revenue. To protect port competitiveness until neighbouring ports adopted similar rules, the incentive was extended to March 2018.
+
+## What Makes It New
+
+It turned an industry-led voluntary commitment into a binding requirement, ahead of national and international rules, and was accompanied by talks with Guangdong and Shenzhen on a common standard for the Pearl River Delta.
+
+## Measuring Impact
+
+The government expected the rule to cut vessels' sulphur dioxide and particulate emissions at berth by more than 60%, and total Hong Kong sulphur dioxide and particulate emissions by 12% and 6%. At the Kwai Chung monitoring station, average sulphur dioxide from July 2015 to June 2016, when the station was downwind of the terminals, was 50% lower than in the previous 12 months. By January 2017 inspectors had checked 166 vessels and found four violations, with fines of HK$5,000 to HK$15,000. Independent evaluation of health effects was not found.
+
+## Risks & Mitigation
+
+The main concern was a cost disadvantage against nearby mainland ports, addressed through the extended incentive and regional talks; from 2017 mainland China required low-sulphur fuel at berth in core ports of its domestic emission control areas. Fines imposed have been far below the maximum, inspections cover a small share of calls, and onshore power at the container terminals was not planned because of limited space and few equipped vessels.
+"
+"unece-clrtap","Convention on Long-Range Transboundary Air Pollution (UNECE) and its protocols","UNECE region (Europe, Caucasus, Central Asia, North America)","1979","monitoring-regional","https://breathelife2030.org/news/40-years-cooperation-counting-unece-air-convention/ | https://acp.copernicus.org/articles/7/3663/2007/ | https://www.canada.ca/en/environment-climate-change/corporate/international-affairs/partnerships-organizations/gothenburg-protocol-air-pollution.html | https://www.canada.ca/en/environment-climate-change/corporate/international-affairs/partnerships-organizations/transboundary-air-pollution-multilateral-financing.html","## One-Sentence Summary
+
+The Convention on Long-Range Transboundary Air Pollution is a regional treaty negotiated under the UN Economic Commission for Europe (UNECE), signed in 1979, that commits its parties to cut cross-border air pollution through binding protocols backed by shared monitoring and modelling.
+
+## Problem
+
+In the 1960s and 1970s, sulphur and nitrogen emissions in one country caused acid rain, damaged forests and acidified lakes in others. No government could solve a problem whose sources lay largely abroad, and there was no shared scientific basis for apportioning responsibility.
+
+## Target Beneficiaries & Use Cases
+
+It serves populations and ecosystems across Europe, Central Asia and North America. Its direct users are environment ministries, which turn ceilings into domestic law, and scientific bodies that compile inventories and models.
+
+## Solution / Service Overview
+
+The convention, signed by 32 countries in 1979, entered into force in 1983 and has been extended by eight protocols covering sulphur, nitrogen oxides, volatile organic compounds, heavy metals, persistent organic pollutants and financing of scientific work. The 1999 Gothenburg Protocol, in force since 2005, set national ceilings for sulphur dioxide, nitrogen oxides, volatile organic compounds and ammonia. Amendments adopted in 2012 added fine particulate matter (PM2.5), treated black carbon as part of particulate matter and set 2020 reduction commitments against 2005 levels; the amended protocol entered into force in October 2019.
+
+## Delivery Model
+
+Parties negotiate protocols through an Executive Body serviced by the UNECE secretariat and meet commitments through national measures such as vehicle, fuel and power-plant standards. A co-operative programme, EMEP, collects emissions data, measures air and precipitation quality and models cross-border flows, giving parties a shared evidence base.
+
+## Funding & Sustainability
+
+A 1984 protocol, in force since 1988, made annual contributions to EMEP mandatory for countries within its scope, with others such as Canada and the United States contributing voluntarily; earlier UN Environment Programme funding had ended. Pollution control itself is paid for through national regulation and by industry.
+
+## What Makes It New
+
+It is the only legally binding international instrument dedicated to air pollutants and the first multi-country regional one, linking monitoring and modelling to negotiated national ceilings; since 2012 it also covers black carbon, a short-lived climate pollutant.
+
+## Measuring Impact
+
+A peer-reviewed study of EMEP data found that European sulphur dioxide emissions fell from about 55 million tonnes in 1980 to about 15 million tonnes in 2004, with most countries cutting emissions by more than 60% between 1990 and 2004. At the 2019 40th anniversary, parties reported 30–80% cuts in emissions of harmful substances, including sulphur and particulate matter, since 1990 in Europe and 30–40% in North America, with measures credited with preventing about 600,000 premature deaths a year in Europe. Canada reported meeting its 2020 Gothenburg commitments. National and EU laws and economic change also drove these cuts, so not all can be credited to the treaty.
+
+## Risks & Mitigation
+
+Progress has been uneven. The same study found that about half of Gothenburg parties still needed further cuts to meet 2010 targets and that a growing number of countries reported rising sulphur emissions. The convention relies on reporting and review rather than strong sanctions. In 2019 parties acknowledged unresolved problems with urban particulate matter, methane and nitrogen, and launched a forum for wider international cooperation."
+"china-three-north-shelterbelt","Three-North Shelterbelt Forest Program","Northern China (13 provincial-level regions)","1978","monitoring-regional","https://english.www.gov.cn/news/202406/06/content_WS6661af3bc6d0868f4e8e7e18.html | https://hero.epa.gov/hero/index.cfm/reference/details/reference_id/2625574 | https://english.iae.cas.cn/newsevents/news/202511/t20251126_1133600.html | https://en.wikipedia.org/wiki/Great_Green_Wall_(China)","## One-Sentence Summary
+
+China's Three-North Shelterbelt Forest Program is a state-led afforestation and land-restoration programme, launched in 1978 and scheduled to run until 2050, that plants trees, shrubs and grass across northern China to slow desertification and reduce wind erosion and sand and dust storms.
+
+## Problem
+
+Large parts of north-western, northern and north-eastern China suffer from desertification, soil erosion and sand and dust storms that damage farmland and degrade air quality in downwind cities, including Beijing. Overgrazing, unsustainable farming and dry conditions had expanded degraded land over decades.
+
+## Target Beneficiaries & Use Cases
+
+The programme covers 13 provincial-level regions and is planned to span more than 4 million square kilometres, or 42.4% of China's land area. It targets rural communities and farmland exposed to wind erosion, downwind cities affected by dust, and local forestry and fruit-growing economies.
+
+## Solution / Service Overview
+
+The programme combines farmland shelterbelts, sand-fixing forests and shrubs on desert margins, grassland restoration and protection zones for desertified land. Official figures report that afforested area has expanded by about 32 million hectares since 1978. In 2023 the national leadership proposed turning it into a ""green Great Wall"" ecological barrier with more emphasis on integrated sand control.
+
+## Delivery Model
+
+The central government sets plans and targets, and provincial and local forestry and grassland authorities carry out projects. The programme has three phases and eight construction periods; the current phase runs from 2021 to 2030. Sand-control plans have been approved for 19 provincial regions.
+
+## Funding & Sustainability
+
+Funding comes mainly from government budgets; in June 2024 the central government allocated a special fund of 12 billion yuan. Long-term sustainability depends on planted vegetation surviving dry conditions and on water availability.
+
+## What Makes It New
+
+It is described as the world's largest afforestation programme, and its scale and duration as a single national ecological project aimed partly at dust control have few parallels.
+
+## Measuring Impact
+
+Official figures report that forest coverage in the programme area rose from 5.05% in 1978 to 13.84% in 2023, and that desertified land nationally fell by a net 50,000 square kilometres between 2009 and 2019. A 2025 Chinese Academy of Sciences assessment reported a 61% fall in water-driven soil erosion area and crop yield gains of 4–10% from shelterbelts, but found that only 10% of farmland is effectively protected and that afforestation accounted for about 8% of the decline in regional water storage. Evidence on dust storms is contested: a 2010 peer-reviewed study in the Journal of Arid Environments found little rigorous evidence for official claims and concluded that the programme's role in reducing dust storms may have been overstated. Rainfall and wind variation make attribution difficult.
+
+## Risks & Mitigation
+
+Reported problems include large tree losses, such as about one billion poplars in Ningxia lost to a single disease in 2000; single-species plantations with low biodiversity; and concerns that dense planting in arid areas draws down groundwater and soil moisture. Critics argue that tree planting does not address root causes such as overgrazing. The programme has broadened towards grassland and wetland restoration and approved sand-control plans, but independent long-term assessment remains limited."
+"au-great-green-wall","Great Green Wall for the Sahara and the Sahel Initiative","Sahel, Africa (Senegal to Djibouti)","2007","monitoring-regional","https://www.unccd.int/news-events/ministers-release-first-status-report-and-share-next-steps-great-green-wall | https://thinklandscape.globallandscapesforum.org/46781/the-great-green-wall-is-officially-4-and-unofficially-18-complete/ | https://www.downtoearth.org.in/africa/africas-great-green-wall-is-stalling-in-senegal-very-few-planted-areas-show-progress | https://en.wikipedia.org/wiki/Great_Green_Wall_(Africa)","## One-Sentence Summary
+
+The Great Green Wall for the Sahara and the Sahel is an African Union–endorsed initiative, launched in 2007, that aims to restore 100 million hectares of degraded land across the Sahel by 2030 to counter desertification, land degradation and related poverty.
+
+## Problem
+
+The Sahel suffers from recurrent drought, loss of vegetation and soil, and extreme poverty. Bare, degraded land is exposed to wind erosion and dust, while rural livelihoods depend on farming and herding on it.
+
+## Target Beneficiaries & Use Cases
+
+The core intervention zone covers about 153 million hectares, a strip roughly 15 km wide and nearly 8,000 km long across eleven countries from Senegal to Djibouti, though more countries have since joined. Beneficiaries are rural communities, farmers and herders, and national land-restoration agencies.
+
+## Solution / Service Overview
+
+The concept was approved by the Community of Sahel-Saharan States in 2005 and endorsed by the African Union in 2007. It began as a continuous line of trees but evolved into a broader restoration programme of water harvesting, protecting existing vegetation, tree planting and better land use, aiming for a mosaic of productive landscapes. Targets for 2030 include 100 million hectares restored and 10 million jobs.
+
+## Delivery Model
+
+National Great Green Wall agencies plan and implement projects, coordinated by the Pan-African Agency of the Great Green Wall. Many projects are financed by bodies such as the World Bank, the Global Environment Facility and the African Development Bank, which require lengthy preparation and approval before money reaches the field.
+
+## Funding & Sustainability
+
+The initiative depends heavily on donors. More than US$20 billion has been pledged, including US$14.3 billion at the One Planet Summit in January 2021, which launched the Great Green Wall Accelerator. Disbursement has lagged: countries reported receiving only US$149 million between 2011 and 2019, and by March 2023 only US$2.5 billion of the 2021 pledge had been disbursed. The UN Convention to Combat Desertification (UNCCD) estimated that the 2030 target needs about US$4.3 billion a year.
+
+## What Makes It New
+
+It is a pan-African, multi-country restoration effort organised around one geographic belt, combining land restoration with jobs and climate goals, and it shifted from a tree-planting concept to landscape-scale restoration.
+
+## Measuring Impact
+
+The UNCCD's first status report, in 2020, found that about 20 million hectares were restored between 2007 and 2018, but only about 4% of the demarcated intervention zone; the rest lay elsewhere in participating countries, including about 12 million hectares in Ethiopia. It counted more than 350,000 jobs and around US$90 million in revenue. A field and satellite study of 36 planted plots in Senegal, covering about 18,000 hectares, found only one plot greener than expected from rainfall alone, indicating little ecological effect there. Results are weak relative to targets, vary widely by country, and direct evidence on dust reduction is lacking.
+
+## Risks & Mitigation
+
+Reported problems include slow, fragmented funding, weak monitoring, low survival of unirrigated seedlings, livestock damage where fencing is poorly maintained, and insecurity that has halted aid and destabilised sites in Burkina Faso, Mali and Niger. Some countries lacked an agency able to receive funds, and critics have called the approach top-down. The UNCCD named financing, governance and monitoring as priorities, and the Accelerator was launched to scale up funding."
+"delhi-grap","Graded Response Action Plan (GRAP) for Delhi-NCR","Delhi and National Capital Region, India","2017","monitoring-regional","https://www.clearias.com/grap/ | https://www.theweek.in/wire-updates/national/2026/01/14/grap-treats-symptoms-not-causes-of-delhi-air-pollution-experts.html | https://www.livelaw.in/amp/top-stories/supreme-court-summons-chief-secretaries-of-ncr-states-for-not-paying-construction-workers-allowances-276968 | https://www.iamrenew.com/environment/grap-has-key-role-in-controlling-delhi-air-pollution-says-iitm-and-caqm-study/amp","## One-Sentence Summary
+
+The Graded Response Action Plan (GRAP) is a set of emergency anti-pollution measures for Delhi and the National Capital Region (NCR) that are switched on in stages as the Air Quality Index (AQI) worsens; it was first notified by India's environment ministry in 2017 and revised by the Commission for Air Quality Management in 2022.
+
+## Problem
+
+Delhi recorded an annual average PM10 of 197 µg/m³ in 2025, nearly three times the national standard of 60. Pollution peaks in autumn and winter, when weak winds combine with vehicle exhaust, construction and road dust, crop-residue burning and household and waste burning.
+
+## Target Beneficiaries & Use Cases
+
+The plan aims to protect residents of Delhi and surrounding NCR districts during pollution episodes, especially children, older people and people with respiratory disease. Central, state and municipal agencies and police use it to decide which restrictions apply each day.
+
+## Solution / Service Overview
+
+Since October 2022 GRAP has four cumulative stages: Stage I (AQI 201–300), Stage II (301–400), Stage III (401–450) and Stage IV (above 450). Lower stages cover dust control, road sweeping, fines for open burning and reliable electricity to cut diesel generator use. Stage III adds a ban on most construction and allows curbs on older petrol and diesel cars. Stage IV halts construction, bans entry of most trucks, and allows school closures, work-from-home orders and odd-even driving. Forecasts from the Indian Institute of Tropical Meteorology (IITM) inform decisions.
+
+## Delivery Model
+
+GRAP arose from Supreme Court proceedings in the M.C. Mehta case and was first implemented through the court-mandated Environment Pollution (Prevention and Control) Authority. The Commission for Air Quality Management, a statutory body, now invokes stages and directs agencies to enforce them. Revisions in December 2024 and November 2025 moved several measures to earlier stages.
+
+## Funding & Sustainability
+
+GRAP has no dedicated budget and relies on existing agencies; much of its cost falls on businesses and workers. The Supreme Court directed NCR states to use construction-worker welfare cess funds to pay subsistence allowances to workers idled by construction bans.
+
+## What Makes It New
+
+It ties pre-agreed restrictions to AQI bands so action follows automatically as pollution rises, across several state jurisdictions within one airshed.
+
+## Measuring Impact
+
+Independent evaluation is limited. A joint study by IITM and the Commission, reported in 2025, estimated that GRAP lowered PM2.5 by 2 to 42 µg/m³ depending on the stage, that Delhi would otherwise have had about 60% more hours of severe air quality, and that 177 to 297 short-term deaths may have been averted. This is a modelling estimate produced partly by the implementing body. Winter air quality remains very poor, and independent experts say the plan has not significantly reduced Delhi's overall pollution.
+
+## Risks & Mitigation
+
+Experts describe GRAP as a reactive emergency tool that treats symptoms rather than sources, relies on an outdated emissions inventory and lacks a mechanism to check whether measures cut emissions across the NCR. Enforcement has been uneven: in December 2024 the Supreme Court found that Delhi, Haryana, Rajasthan and Uttar Pradesh had not shown payment of allowances to any construction worker idled by Stage IV, and summoned their chief secretaries. The Commission has responded by moving measures to earlier stages and promising stricter enforcement of existing norms."
+"korea-fine-dust-seasonal-management","Fine Dust Seasonal Management System (December–March)","South Korea (national, incl. Seoul)","2019","monitoring-regional","https://www.koreajoongangdaily.com/korea/measures-unveiled-to-reduce-fine-dust-by-20-this-winter/11316305 | https://www.asiae.co.kr/en/article/2020051211295971132 | https://www.asiae.co.kr/en/article/2020030718184064165 | https://airclim.org/acidnews/south-korea-shuts-quarter-its-coal-plants-over-winter | https://www.koreatimes.co.kr/southkorea/society/20201126/korea-to-reduce-operation-of-coal-plants-to-cut-fine-dust-emissions-over-winter | https://www.koreajoongangdaily.com/korea/seoul-to-impose-daytime-ban-on-high-emission-vehicles-from-december-to-march/11463690","## One-Sentence Summary
+
+South Korea's Fine Dust Seasonal Management System applies extra emission controls every year from December to March, first in winter 2019–20, idling coal power plants, restricting the most polluting vehicles and tightening industrial controls when fine particulate pollution is worst.
+
+## Problem
+
+Fine particulate (PM2.5) concentrations in South Korea peak between December and March, when stagnant weather and heating demand combine with emissions from coal power, steel and other industry and diesel vehicles, plus pollution transported from China. Severe episodes in early 2019 caused strong public concern.
+
+## Target Beneficiaries & Use Cases
+
+The system protects the national population, especially in the Seoul metropolitan area and in provinces such as South Chungcheong where coal plants and steel mills are concentrated. It is applied by ministries, power companies and local governments.
+
+## Solution / Service Overview
+
+The National Council on Climate and Air Quality proposed the system in September 2019, aiming to cut fine dust by at least 20% from December to March. For the first season, 14 of about 60 coal plants were scheduled to be idled from December to February and up to 27 in March; in the second, 9 to 16 were to be idled, with the rest capped at 80% of capacity. Cities restrict ""grade 5"" vehicles, mainly diesel cars made before July 2002 and petrol cars made before 1987. Seoul bans them on weekdays from 6 a.m. to 9 p.m., with fines of up to 100,000 won per day and exemptions for filter-equipped, emergency and low-income households' vehicles.
+
+## Delivery Model
+
+A March 2020 amendment to the Special Act on the Reduction and Management of Fine Dust gave the system a legal basis: from 1 December to 31 March the environment minister can ask agencies to adjust emitting facilities' operating rates and restrict ships, and local leaders can restrict old vehicles by ordinance. It is repeated each winter.
+
+## Funding & Sustainability
+
+Costs fall mainly on the power sector, which replaces coal generation, and on owners of older vehicles. Scrapping and retrofitting were promoted alongside the bans; about 113,000 grade 5 vehicles were scrapped or fitted with emission-reduction devices in the first season.
+
+## What Makes It New
+
+Rather than reacting only to daily alerts, it applies planned season-long controls when pollution is predictably worst, including South Korea's first winter shutdowns of coal plants.
+
+## Measuring Impact
+
+The Ministry of Environment estimated that the first season (December 2019 to March 2020) cut the national average PM2.5 concentration by about 1.9 µg/m³. Days with PM2.5 at or above 36 µg/m³ fell by two on average nationally and by up to nine in South Chungcheong. Favourable weather was estimated to have lowered concentrations by about 3 µg/m³, and reduced activity during COVID-19 also contributed, so the policy explains only part of the improvement. Seoul later reported a 26% year-on-year fall in one season, but its winter concentrations still exceed the annual average.
+
+## Risks & Mitigation
+
+Attribution is difficult because weather, COVID-19 and Chinese emission controls overlap with the policy; officials said China's contribution could not be measured precisely. Vehicle bans burden owners of older cars, hence the exemptions. Because the measures are temporary, they are paired with longer-term steps such as Seoul's ban on grade 4 diesel vehicles in its centre from 2025."
+"breathe-london","Breathe London low-cost air quality sensor network","London, United Kingdom","2018","monitoring-regional","https://www.london.gov.uk/press-releases/mayoral/new-network-of-sensors-to-tackle-toxic-air | https://amt.copernicus.org/articles/15/321/2022/ | https://www.clarity.io/use-cases/c40-breathe-cities","## One-Sentence Summary
+
+Breathe London is a city-wide network of low-cost air quality sensors, piloted from 2018 and expanded with Greater London Authority funding from 2021, that publishes street-level nitrogen dioxide and fine particulate data for the public, boroughs and community groups.
+
+## Problem
+
+London's official reference monitors are accurate but expensive and relatively sparse, so many neighbourhoods, schools and hospitals had no local measurements. Residents and boroughs lacked street-level data to find pollution hotspots, target local action or involve communities that had taken little part in clean-air programmes.
+
+## Target Beneficiaries & Use Cases
+
+Users include London boroughs, schools, hospitals, community groups, charities and residents. The expanded network prioritised low-income and Black, Asian and minority ethnic communities, which City Hall said had been less engaged in environmental programmes. Uses include assessing local schemes such as School Streets, informing residents and supporting campaigns.
+
+## Solution / Service Overview
+
+The two-year pilot, from late 2018, tested about 100 fixed low-cost sensors, sensors on Google Street View cars, wearable sensors on children's school journeys and an evaluation of School Streets. In December 2020 the Mayor announced a new network of more than 100 sensors measuring nitrogen dioxide and PM2.5 at priority sites such as schools and hospitals. Data appear on a public map, and groups can ""buy in"" to host extra sensors at reduced cost. The sensor supplier reports more than 400 sensors.
+
+## Delivery Model
+
+The pilot was led by Environmental Defense Fund Europe. The expanded network is delivered by Imperial College London's Environmental Research Group through Imperial Projects, with City Hall as the main funder, and sensors are calibrated against nearby reference monitors.
+
+## Funding & Sustainability
+
+The pilot was funded by the Children's Investment Fund Foundation and the Clean Air Fund. The Mayor committed £750,000 over four years to the follow-on network, and Bloomberg Philanthropies supported outreach to less-engaged communities. Further growth relies on paid hosting by boroughs, businesses and community groups.
+
+## What Makes It New
+
+Its funders described the pilot as a global first in the scale of low-cost sensor trials across a city, combining fixed, mobile and wearable monitoring. The model became a template for the C40 Breathe Cities programme.
+
+## Measuring Impact
+
+Breathe London is an information service, and there is no evidence that it reduced pollution by itself. Its main measured outcome is data quality. A peer-reviewed evaluation of 100 nitrogen dioxide sensors over about two years found average uncertainty of about 35% after calibration and good tracking of reference measurements (median R² of 0.79); the network reproduced trends, daily and weekly patterns and a December 2019 pollution episode. However, sensors read high in warm weather, overstating daytime concentrations by about 40% in July 2019, and had multi-week periods of poor performance. Evidence on how the data changed behaviour or policy is largely qualitative.
+
+## Risks & Mitigation
+
+Low-cost sensors cannot replace reference monitors, which alone are used to check compliance with legal limits, and uncorrected data can mislead users far from reference sites. The project used co-location with reference instruments, travelling transfer-standard units and network calibration, and its evaluators recommend keeping at least one reliable reference instrument where coverage is sparse. The network depends on time-limited grants and paid hosting."
+"us-epa-airnow-aqi","US EPA AirNow and the Air Quality Index (AQI) public information and alert system","United States","1998","monitoring-regional","https://www.airnow.gov/about-airnow/ | https://www.airnow.gov/aqi/aqi-basics/ | https://wiki.esipfed.org/AIRNow | https://sonomatech.com/node/4601 | https://www.iqair.com/support/knowledge-base/KA-05074-INTL | https://www.nber.org/papers/w14271","## One-Sentence Summary
+
+AirNow is the United States' national system, run by the Environmental Protection Agency (EPA) with partner agencies since 1998, that gathers real-time air quality measurements and forecasts and communicates them to the public through the colour-coded Air Quality Index (AQI).
+
+## Problem
+
+Ozone and fine particle levels vary daily and can harm health on bad days, but in the mid-1990s data from state and local monitors were not available to the public in real time or in an understandable form. People with asthma or heart disease, children and older adults had no simple way to know when to limit outdoor exposure.
+
+## Target Beneficiaries & Use Cases
+
+The public and sensitive groups use AirNow to plan outdoor activity. Schools, health professionals, forecasters and media use it to issue warnings, and agencies use it for forecasting and wildfire smoke response.
+
+## Solution / Service Overview
+
+The AQI converts concentrations of five pollutants regulated under the Clean Air Act (ground-level ozone, particle pollution, carbon monoxide, sulphur dioxide and nitrogen dioxide) into a scale where 100 generally corresponds to the short-term national standard. Six colour-coded categories run from green (""good"", 0–50) to maroon (""hazardous"", 301 and above), each with health guidance. AirNow publishes current conditions, daily forecasts, maps, an email alert service called EnviroFlash, apps, and a Fire and Smoke Map developed with the US Forest Service that also uses low-cost sensor data. It also shows data for Canada and Mexico.
+
+## Delivery Model
+
+State, local and tribal agencies operate monitors and send data hourly to a central data management centre, which quality-checks and distributes them; state and local agencies issue official forecasts. Partners include the EPA, NOAA, the National Park Service, NASA and the Centers for Disease Control and Prevention. A contractor has operated the data centre since 2002.
+
+## Funding & Sustainability
+
+AirNow grew from a 1997 regional ozone-mapping system funded by north-eastern state and regional air organisations, and expanded nationally with federal funding from the EMPACT initiative, which also helped states buy equipment. It builds on monitoring networks that agencies already run for regulatory purposes.
+
+## What Makes It New
+
+It created a single national, near-real-time public channel for regulatory monitoring data, using one index shared by agencies and the media. An international version was first deployed in Shanghai for the 2010 World Expo.
+
+## Measuring Impact
+
+AirNow's reach is wide: it reports real-time conditions for more than 400 US cities using data from over 150 agencies. Direct evidence of health benefits is limited. Research on smog alerts in Southern California found that people reduced discretionary outdoor activities on alert days, but that this response had largely disappeared by the second consecutive alert day. AirNow does not itself reduce emissions, and how far its information improves health outcomes has not been established.
+
+## Risks & Mitigation
+
+Index categories depend on the underlying standards. In May 2024 the EPA lowered the upper limit of ""good"" for PM2.5 from 12 to 9 µg/m³, citing health risks at low levels, and lowered the ""very unhealthy"" and ""hazardous"" breakpoints, so the same concentration now gives a higher index value. Regulatory monitors are sparse in some areas, which the Fire and Smoke Map partly addresses with low-cost sensors. Public response weakens during multi-day episodes."
+"california-smog-check","California Smog Check vehicle inspection and maintenance programme (BAR with CARB)","California, United States","1984","monitoring-regional","https://www.bar.ca.gov/pdf/smog-check-performance-report/2024.pdf | https://digital.library.unt.edu/ark:/67531/metadc785802/m2/1/high_res_d/824835.pdf | https://www.bar.ca.gov/strategic-plan/consumer-protection | https://www.bar.ca.gov/cap | https://en.wikipedia.org/wiki/California_Smog_Check_Program","## One-Sentence Summary
+
+California's Smog Check is a vehicle emissions inspection and maintenance programme, administered by the Bureau of Automotive Repair (BAR) since 1984 with the California Air Resources Board (CARB) and the Department of Motor Vehicles, that requires most cars to pass an emissions inspection every two years and on change of ownership.
+
+## Problem
+
+Motor vehicles are a major source of the gases that form ozone smog in California. Emission controls deteriorate, fail or are tampered with, so a minority of poorly maintained, mostly older vehicles emit far more than their certified levels.
+
+## Target Beneficiaries & Use Cases
+
+The programme benefits residents of air basins with serious ozone problems, such as Los Angeles, Sacramento and the Central Valley, where stricter ""enhanced"" rules apply. It applies to vehicle owners and licensed private stations.
+
+## Solution / Service Overview
+
+California adopted the programme under 1982 legislation, and BAR began administering it in 1984. Responding to US EPA requirements, an enhanced programme with loaded dynamometer testing began in 1998 in the most polluted areas. Since 2013, model-year 2000 and newer vehicles are checked mainly through on-board diagnostics, while 1976–1999 vehicles get tailpipe tests. Vehicles eight model years old or newer skip biennial tests but pay an abatement fee. Failing vehicles must be repaired before registration renewal. A Consumer Assistance Program offers eligible owners repair help or payment to retire a vehicle.
+
+## Delivery Model
+
+Inspections are done by privately owned, BAR-licensed stations. Since 2013 a voluntary STAR certification has directed higher-risk vehicles to better-performing stations; in 2023, 48% of stations were STAR-certified and performed 83% of tests. BAR and the California Highway Patrol run voluntary roadside tests to audit results, and BAR can suspend or revoke station licences.
+
+## Funding & Sustainability
+
+Motorists pay for inspections and repairs at private stations, and owners of newer exempt vehicles pay the abatement fee. In 2020 the maximum state contribution to repairs for eligible consumers rose from $500 to $1,200.
+
+## What Makes It New
+
+It combines a decentralised network of private stations with data-driven oversight: roadside audit testing, station performance scores used to route vehicles, and on-board diagnostic checks for newer cars.
+
+## Measuring Impact
+
+A Lawrence Berkeley National Laboratory study estimated that in 1999 the programme cut tailpipe hydrocarbons, carbon monoxide and nitrogen oxides by about 97, 1,690 and 81 tons per day, with wide uncertainty (60–91 tons per day for nitrogen oxides); repairs after failed tests delivered most of the benefit. A persistent gap remains: in 2022–23 about 14% of vehicles failed a roadside test within a year of their Smog Check, including 14% of those that had passed. BAR and CARB estimated that an extra 48 tons per day of reactive organic gases and nitrogen oxides could have been removed in 2023 if all stations performed as well as the best.
+
+## Risks & Mitigation
+
+Fraud recurs, including ""clean piping"" (testing a sample from a clean car), its diagnostic equivalent ""clean plugging"" and registration fraud, and cases are slow to pursue. The US EPA has argued that testing and repairing at the same station creates a conflict of interest. Stricter tests caused many older vehicles to fail, raising owners' costs. Mitigations include STAR certification, roadside auditing and repair and retirement assistance."
+"santiago-ppda","Santiago Atmospheric Prevention and Decontamination Plan (PPDA)","Santiago Metropolitan Region, Chile","1997","monitoring-regional","https://www.memoriachilena.gob.cl/602/w3-article-95185.html | https://www.terram.cl/descargar/ambiente/contaminacion/minutas/Minuta-Evaluacion-Auditoria-2005-Plan-Prevencion-Descontaminacion-RM.pdf | https://www.latercera.com/la-tercera-sabado/noticia/a-30-anos-del-plan-de-descontaminacion-en-santiago-que-viene-ahora/LZ5PK3JZC5AIFKVLYOGDQQR52A/ | https://www.latercera.com/nacional/noticia/region-metropolitana-el-2024-es-el-tercer-ano-con-mejor-calidad-del-aire-desde-que-existe-plan-de-descontaminacion/GJQHJ7XTYJGCJMMGELWPIZSMGM/","## One-Sentence Summary
+
+Santiago de Chile's Atmospheric Prevention and Decontamination Plan (PPDA) is a legally binding plan for the Metropolitan Region, first adopted in 1997 after the area was declared saturated with several pollutants, that combines permanent controls on transport, industry and home heating with emergency measures on high-pollution winter days.
+
+## Problem
+
+Santiago lies in a basin with poor winter ventilation, and in the 1990s it had very high levels of particulate matter, ozone and carbon monoxide. Main sources included buses and cars, industry and residential wood burning, and winter fine particle levels are typically about double summer levels.
+
+## Target Beneficiaries & Use Cases
+
+The plan protects residents of the Metropolitan Region, especially north-western districts most affected by particulate matter and eastern and central districts most affected by ozone. It regulates drivers, transport operators, industry, construction and households.
+
+## Solution / Service Overview
+
+A 1996 decree declared Santiago saturated with ozone, particulate matter and carbon monoxide. The 1997 plan set out 104 actions for 29 institutions over a planned 14 years. It was revised in 2004, as urban growth and a rising vehicle fleet threatened progress, and again in 2017. Measures have included natural gas and cleaner fuels, catalytic-converter cars, licence-plate driving restrictions, a ban on wood-burning heaters across Santiago province, industrial emission-reduction plans targeting a 30% particulate cut by 2027, and electric buses. From May to August, declared alerts, pre-emergencies and emergencies trigger extra driving restrictions and industrial shutdowns.
+
+## Delivery Model
+
+The national environmental authority, originally CONAMA and now the Ministry of the Environment, prepares the plan, issued as a decree. Regional health, transport and environmental agencies, the police and the Superintendency of the Environment inspect vehicles, homes and factories. Plans must be reviewed every five years and updated every ten.
+
+## Funding & Sustainability
+
+Measures are funded through public budgets and obligations on emitters, including industrial reduction plans and an emissions compensation programme that has replaced more than 12,000 wood heaters in rural parts of the region. Periodic legal revision has kept the plan in force for nearly three decades.
+
+## What Makes It New
+
+It ties a formal saturation declaration to a binding multi-sector plan with mandatory periodic revision, paired with a structured winter episode system.
+
+## Measuring Impact
+
+Annual PM2.5 fell from about 69 µg/m³ in 1989 to 20 µg/m³ in 2020, a 71% reduction, and annual PM10 fell from 97 µg/m³ in 1997 to 68 in 2004. Progress has not been steady. An analysis of the 2005 audit found that reductions stalled after 2000, with days exceeding the daily PM10 standard rising from 49 in 2001 to 67 in 2003, and no decline in ozone. The four winters to 2021 had 127 critical episodes and no emergencies, against 170 episodes and seven emergencies in the previous four, and 2024 was reported as the third-best year since the plan began. Dry winters give markedly worse results.
+
+## Risks & Mitigation
+
+Reported problems include weak enforcement of wood-burning bans and smoky-vehicle rules, delays in approving industrial reduction plans, a growing car fleet and too few monitoring stations in outlying towns. Earlier, cuts in Argentine natural gas pushed some sources back to diesel, and political priority has varied. The Superintendency raised its inspections from about 108 in 2023 to over 350 in 2024."
+"singapore-thpa","Transboundary Haze Pollution Act 2014 (with the ASEAN Agreement on Transboundary Haze Pollution as context)","Singapore / Southeast Asia","2014","monitoring-regional","https://eco-business.com/news/parliament-passes-transboundary-haze-pollution-bill | https://www.eco-business.com/news/singapore-sends-notice-to-indonesian-firms-for-causing-haze/ | https://www.maju.sg/post/clearing-the-air-singapore-s-haze-pollution-law-part-2 | https://en.wikipedia.org/wiki/ASEAN_Agreement_on_Transboundary_Haze_Pollution | https://www.thejakartapost.com/news/2015/09/25/singapore-shuts-schools-distributes-free-masks-haze.html | https://www.nst.com.my/amp/sports/motor-sports/2019/09/521437/singapore-air-unhealthy-ahead-f1-race","## One-Sentence Summary
+
+Singapore's Transboundary Haze Pollution Act 2014 makes companies, including foreign ones, criminally and civilly liable if fires on land they own or occupy outside Singapore cause or contribute to unhealthy haze in Singapore, complementing the regional ASEAN Agreement on Transboundary Haze Pollution.
+
+## Problem
+
+Fires used to clear land for palm oil and pulp and paper plantations in Indonesia repeatedly send smoke haze across Singapore. The ASEAN haze agreement, signed in 2002, did not stop haze returning almost every year from 2004 to 2010 and from 2013 to 2015; Indonesia, the main source, ratified it last, in 2014. Critics call the agreement vague and lacking enforcement.
+
+## Target Beneficiaries & Use Cases
+
+The law aims to protect Singapore's population from haze and to deter plantation companies, their Singapore-linked parents and executives from using fire. The National Environment Agency (NEA) uses it to demand action during episodes and to investigate companies.
+
+## Solution / Service Overview
+
+Parliament passed the Act on 5 August 2014. It covers conduct outside Singapore that causes or contributes to haze in Singapore. Companies can be fined up to S$100,000 for each day they contribute to unhealthy haze, to a maximum of S$2 million, and the Act also creates civil liability. The NEA can issue preventive measure notices requiring a company to deploy firefighters, stop burning and submit fire-control plans, and can demand information from related Singapore entities. Evidentiary presumptions, such as inferring land control from maps and records, can be rebutted.
+
+## Delivery Model
+
+The NEA enforces the Act. Notices can be served on officers of foreign companies when they are in Singapore, with immigration authorities helping to track their entry. Evidence relies largely on satellite images, concession maps and weather data, because investigators cannot freely work in Indonesia.
+
+## Funding & Sustainability
+
+The Act is a liability law rather than a spending programme, enforced by the NEA. Its deterrent effect depends on reputational pressure, Singapore-linked assets, market access and action against executives entering Singapore, rather than on large fines.
+
+## What Makes It New
+
+The government described it as introducing novel elements into law: criminal and civil liability applied extraterritorially to companies for air pollution caused in another country, including firms without assets or presence in Singapore.
+
+## Measuring Impact
+
+Measured results are weak. In September 2015, when the three-hour Pollutant Standards Index reached 341 and all primary and secondary schools closed, the NEA served preventive notices on four Indonesian companies, then a fifth, plus an information notice on a Singapore-based pulp and paper group. Singapore investigated several Indonesian companies in 2016, but legal commentary reports no convictions under the Act. Haze reached unhealthy levels again in September 2019, for the first time since 2016, during a dry year with widespread fires in Sumatra. Changes in haze frequency cannot be attributed to the Act because weather strongly drives fire activity.
+
+## Risks & Mitigation
+
+Indonesia objected to the law's extraterritorial reach and threatened to review environmental cooperation. Gathering evidence inside Indonesia is difficult, overlapping land-use maps complicate identifying responsible companies, and some scholars question the evidentiary presumptions. Members of Parliament warned that the S$2 million cap could be a ""slap on the wrist"" for large firms; the government said the Act would be reviewed once in effect."
