@@ -1,0 +1,17 @@
+# Starting ideas written by the model (in/air-ideas.csv).
+# The first id is the local-search seed.
+clean-road-transport
+public-transport-shift
+freight-logistics
+ports-shipping
+aviation-ground
+power-desalination
+heavy-industry
+oil-gas-operations
+construction-dust
+sandstorm-resilience
+indoor-air
+monitoring-alerts
+vulnerable-groups
+urban-greening
+economic-instruments

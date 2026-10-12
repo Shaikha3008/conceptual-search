@@ -1,0 +1,41 @@
+# UAE air quality: facts the starting ideas may use
+
+Compiled October 2026 from public sources; the full brief with source links is in in/air-uae-brief-sources.md. These facts are the only statements about the UAE that the model-written starting ideas may present as fact.
+
+- In 2023, EAD named particulate matter and ground-level ozone as Abu Dhabi's pollutants of major concern.
+- The 2021 WHO annual guideline for PM2.5 is 5 µg/m³.
+- The 2021 WHO annual guideline for PM10 is 15 µg/m³.
+- The 2021 WHO annual guideline for NO2 is 10 µg/m³.
+- IQAir gave UAE average PM2.5 as 33.7 µg/m³ in 2024, down 22% from 43 µg/m³ in 2023.
+- IQAir gave UAE PM2.5 as 36.4 µg/m³ in 2025, 7.3 times the WHO annual guideline.
+- HEI/IHME modelled UAE population-weighted PM2.5 at 44 µg/m³ in 2019.
+- An Abu Dhabi study found summer maximums of 218 µg/m³ for PM10 and 60 µg/m³ for PM2.5.
+- The same study found a PM2.5/PM10 ratio generally below 0.5 in Abu Dhabi, pointing to dust as the main driver.
+- In Abu Dhabi in 2012, about 40% of PM2.5 came from long-range transport of human-made pollution.
+- In Abu Dhabi in 2012, about 25% of PM2.5 came from natural mineral dust.
+- EAD's 2018 emissions inventory named oil and gas, road transport and industry as Abu Dhabi's biggest contributors.
+- SO2 has risen in recent years in Al Dhafra (EAD, 2023).
+- About 90% of UAE dust episodes come from the southwest (1983–2014 data).
+- Dust storms peak in winter, and most dust events fall in March and April (1983–2014 data).
+- UAE summer ozone peaks in July and August and correlates strongly with temperature.
+- About 650 deaths in 2008 were attributed to ambient air pollution.
+- Air pollution caused nearly 12% of UAE deaths in 2019, according to HEI/IHME.
+- An Economist Impact estimate (2025) put savings from meeting WHO guidelines at US$596 million a year.
+- Cabinet Decree No. 12 of 2006 sets federal ambient limits but no separate PM2.5 standard.
+- MOCCAE launched the National Air Quality Agenda 2031 in September 2022, after Cabinet approval in June 2022.
+- The Agenda's outdoor air area has 8 goals and 29 action themes.
+- The Agenda reportedly targets 100% compliance with national standards for gaseous pollutants by 2040.
+- The Agenda reportedly targets 90% compliance with a national PM2.5 standard by 2040.
+- The national AQI follows the US EPA method and covers 5 pollutants.
+- MOCCAE reclassified 64 monitoring stations nationally in 2023.
+- EAD ran 20 fixed and 2 mobile monitoring stations in 2021.
+- 83% of days (303) met national AQI limits in Abu Dhabi in 2021, against a 90% target.
+- Dubai Municipality operated more than 72 fixed monitoring stations in 2020.
+- UAE diesel must contain 10 ppm sulphur and meet the Euro 5 standard.
+- In 2019, 62% of inspected Dubai companies were using off-specification diesel.
+- The National EV Policy (2023) targets EVs making up 50% of vehicles by 2050.
+- The Net Zero by 2050 initiative was announced in October 2021.
+- The Barakah nuclear plant supplies up to 25% of UAE electricity and avoids 22.4 million tonnes of CO2 a year (2024).
+- Dubai Metro carried 275.4 million riders in 2024.
+- Etihad Rail took more than 500,000 truck trips off the roads in 2024.
+- Dubai's Al Sa'fat green building system has required Silver for new buildings since October 2020.
